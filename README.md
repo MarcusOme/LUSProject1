@@ -29,7 +29,7 @@ Each python file perform a different operation based on train and test set manip
 * O_excl.py - delete O tags from train to perform analysis
 * tag_test.py - best performance test, merge tags from IOB and POS-Tagger
 
-The result of the execution can be seen inside the *results.txt*. The file contains a list of all the methods and n-grams order tried and the correlated accuracy.**Beware: this file will be override every time a .py script is executed.**
+The result of the execution can be seen inside the *results.txt*. The file contains a list of all the methods and n-grams order tried and the correlated accuracy. **Beware: this file will be override every time a .py script is executed.**
 
 ## Project Folders
 
@@ -39,7 +39,7 @@ Contains all datasets in the subfolder **/data**. The files with extension .data
 
 ### /Final_results
 
-Already contains the result calculated for each python script in the project. Each file contains the results of different methods with different n-gram orders. **Beware: those files will not be override while running code, so you can compare the result obtained.**
+Already contains the result calculated for each python script in the project. Each file contains the results of different methods with different n-gram orders. **Those files will not be override while running code, so you can compare the result obtained with the ones already present.**
 
 ### /absolute & /katz & /kneser_ney /presmoothed & /unsmoothed & /witten_bell
 
