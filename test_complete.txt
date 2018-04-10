@@ -1,0 +1,8201 @@
+star	O--NN
+of	O--IN
+thor	B-movie.name--NN
+
+who	O--WP
+is	O--VBZ
+in	O--IN
+the	O--DT
+movie	O--NN
+the	B-movie.name--DT
+campaign	I-movie.name--NN
+
+list	O--VV
+the	O--DT
+cast	O--NN
+of	O--IN
+the	O--DT
+movie	O--NN
+the	B-movie.name--DT
+campaign	I-movie.name--NN
+
+who	O--WP
+was	O--VBD
+in	O--IN
+twilight	B-movie.name--NN
+
+who	O--WP
+is	O--VBZ
+in	O--IN
+vulguria	B-movie.name--NN
+
+actor	O--NN
+from	O--IN
+lost	B-movie.name--VVN
+
+who	O--WP
+played	O--VVD
+in	O--IN
+the	O--DT
+movie	O--NN
+rocky	B-movie.name--JJ
+
+who	O--WP
+played	O--VVD
+in	O--IN
+the	O--DT
+movie	O--NN
+captain	B-movie.name--NN
+america	I-movie.name--NN
+
+cast	O--NN
+and	O--CC
+crew	O--NN
+for	O--IN
+in	B-movie.name--IN
+july	I-movie.name--NN
+
+who	O--WP
+is	O--VBZ
+in	O--IN
+movie	O--NN
+in	B-movie.name--IN
+july	I-movie.name--RB
+
+who	O--WP
+'s	O--VBZ
+in	O--IN
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+episode	I-movie.name--NN
+four	I-movie.name--CD
+
+who	O--WP
+was	O--VBD
+in	O--IN
+apollo	B-movie.name--NN
+thirteen	I-movie.name--CD
+
+who	O--WP
+was	O--VBD
+apollo	B-movie.name--NN
+thirteen	I-movie.name--CD
+'s	O--VBZ
+cast	O--VVN
+
+search	O--NN
+for	O--IN
+information	O--NN
+about	O--IN
+the	O--DT
+cast	O--NN
+and	O--CC
+crew	O--NN
+of	O--IN
+appolo	B-movie.name--NP
+thirteen	I-movie.name--CD
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+know	O--VV
+more	O--JJR
+about	O--IN
+the	O--DT
+cast	O--NN
+and	O--CC
+crew	O--NN
+of	O--IN
+the	O--DT
+movie	O--NN
+apollo	B-movie.name--NN
+thirteen	I-movie.name--CD
+
+who	O--WP
+starred	O--VVD
+in	O--IN
+the	B-movie.name--DT
+avengers	I-movie.name--NNS
+
+cast	O--VVN
+for	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+actor	O--NN
+from	O--IN
+lassie	B-movie.name--NN
+
+list	O--NN
+actors	O--NNS
+in	O--IN
+the	O--DT
+movie	O--NN
+midnight	B-movie.name--NN
+cowboy	I-movie.name--NN
+
+dirty	B-movie.name--JJ
+dancing	I-movie.name--NN
+actors	O--NNS
+
+who	O--WP
+are	O--VBP
+cast	O--VVN
+and	O--CC
+crew	O--NN
+of	O--IN
+dirty	B-movie.name--JJ
+dancing	I-movie.name--NN
+
+who	O--WP
+was	O--VBD
+in	O--IN
+hitch	B-movie.name--NN
+
+who	O--WP
+is	O--VBZ
+in	O--IN
+the	O--DT
+cast	O--NN
+of	O--IN
+hitch	B-movie.name--NN
+
+star	O--NN
+of	O--IN
+facts	B-movie.name--NNS
+of	I-movie.name--IN
+life	I-movie.name--NN
+
+show	O--VV
+me	O--PP
+movie	O--NN
+credits	O--NNS
+
+who	O--WP
+does	O--VVZ
+the	O--DT
+voices	O--NNS
+for	O--IN
+the	O--DT
+movie	O--NN
+
+find	O--VV
+movie	O--NN
+actors	O--NNS
+
+show	O--NN
+credits	O--NNS
+-	O--:
+forager	B-movie.name--NN
+
+star	O--NN
+of	O--IN
+modern	B-movie.name--JJ
+family	I-movie.name--NN
+
+look	O--VV
+up	O--RP
+information	O--NN
+about	O--IN
+the	O--DT
+cast	O--NN
+crew	O--NN
+of	O--IN
+go	B-movie.name--NN
+
+find	O--VV
+information	O--NN
+about	O--IN
+the	O--DT
+cast	O--NN
+and	O--CC
+crew	O--NN
+of	O--IN
+go	B-movie.name--NN
+
+who	O--WP
+was	O--VBD
+in	O--IN
+the	O--DT
+cast	O--NN
+of	O--IN
+go	B-movie.name--NN
+
+can	O--MD
+you	O--PP
+find	O--VV
+the	O--DT
+lead	O--JJ
+actor	O--NN
+in	O--IN
+pretty	B-movie.name--JJ
+women	I-movie.name--NNS
+
+what	O--WP
+are	O--VBP
+the	O--DT
+actors	O--NNS
+names	O--NNS
+and	O--CC
+parts	O--NNS
+in	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+searching	O--VVG
+for	O--IN
+names	O--NNS
+of	O--IN
+crew	O--NN
+members	O--NNS
+of	O--IN
+appollo	B-movie.name--NP
+thirteen	I-movie.name--CD
+
+budget	O--NN
+for	O--IN
+dark	B-movie.name--JJ
+knight	I-movie.name--NN
+
+what	O--WP
+was	O--VBD
+the	O--DT
+budget	O--NN
+for	O--IN
+the	B-movie.name--DT
+godfather	I-movie.name--NN
+
+budget	O--NN
+for	O--IN
+twilight	B-movie.name--NN
+
+please	O--UH
+look	O--VV
+up	O--RP
+the	O--DT
+budget	O--NN
+of	O--IN
+step	B-movie.name--NN
+up	I-movie.name--RB
+
+budget	O--NN
+for	O--IN
+titanic	B-movie.name--JJ
+the	O--DT
+movie	O--NN
+
+what	O--WP
+was	O--VBD
+the	O--DT
+budget	O--NN
+for	O--IN
+the	O--DT
+movie	O--NN
+titanic	B-movie.name--JJ
+
+budget	O--NN
+for	O--IN
+iron	B-movie.name--NN
+man	I-movie.name--NN
+2	I-movie.name--CD
+
+please	O--VV
+tell	O--VV
+me	O--PP
+how	O--WRB
+much	O--JJ
+was	O--VBD
+the	O--DT
+budget	O--NN
+for	O--IN
+avatar	B-movie.name--NN
+
+how	O--WRB
+much	O--JJ
+money	O--NN
+did	O--VVD
+they	O--PP
+spend	O--VVP
+to	O--TO
+make	O--VV
+avatar	B-movie.name--NN
+
+avatar	B-movie.name--NN
+'s	O--POS
+budget	O--NN
+
+how	O--WRB
+much	O--RB
+did	O--VVD
+avatar	B-movie.name--NN
+take	O--VV
+in	O--IN
+
+please	O--UH
+show	O--VV
+me	O--PP
+what	O--WP
+the	O--DT
+budget	O--NN
+was	O--VBD
+for	O--IN
+avatar	B-movie.name--NN
+
+what	O--WP
+was	O--VBD
+the	O--DT
+budget	O--NN
+for	O--IN
+the	O--DT
+avatar	B-movie.name--NN
+movie	O--NN
+
+can	O--MD
+you	O--PP
+tell	O--VV
+me	O--PP
+the	O--DT
+budget	O--NN
+of	O--IN
+the	O--DT
+movie	O--NN
+avatar	B-movie.name--NN
+
+total	O--JJ
+budget	O--NN
+for	O--IN
+the	O--DT
+movie	O--NN
+avatar	B-movie.name--NN
+
+what	O--WP
+was	O--VBD
+the	O--DT
+budget	O--NN
+for	O--IN
+batman	B-movie.name--NN
+begins	I-movie.name--VVZ
+
+what	O--WP
+was	O--VBD
+the	O--DT
+budget	O--NN
+for	O--IN
+the	B-movie.name--DT
+avengers	I-movie.name--NNS
+
+what	O--WP
+was	O--VBD
+the	O--DT
+budget	O--NN
+for	O--IN
+gone	B-movie.name--VVN
+with	I-movie.name--IN
+the	I-movie.name--DT
+wind	I-movie.name--NN
+
+what	O--WP
+was	O--VBD
+spent	O--VVN
+on	O--IN
+my	B-movie.name--PP$
+big	I-movie.name--JJ
+fat	I-movie.name--JJ
+greek	I-movie.name--NN
+wedding	I-movie.name--NN
+
+what	O--WP
+was	O--VBD
+pretty	B-movie.name--RB
+woman	I-movie.name--NN
+'s	O--POS
+budget	O--NN
+
+what	O--WP
+was	O--VBD
+the	O--DT
+budget	O--NN
+for	O--IN
+spaceballs	B-movie.name--NNS
+
+how	O--WRB
+many	O--JJ
+movies	O--NNS
+has	O--VHZ
+kevin	B-actor.name--NN
+bacon	I-actor.name--NN
+been	O--VBN
+the	O--DT
+lead	O--JJ
+actor	O--NN
+in	O--IN
+
+how	O--WRB
+many	O--JJ
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+movies	O--NNS
+are	O--VBP
+there	O--RB
+
+how	O--WRB
+many	O--JJ
+movies	O--NNS
+are	O--VBP
+rated	O--VVN
+g	B-rating.name--NN
+
+spain	B-country.name--NN
+has	O--VHZ
+how	O--WRB
+many	O--JJ
+movies	O--NNS
+
+how	O--WRB
+many	O--JJ
+movies	O--NNS
+has	O--VHZ
+kristen	B-actor.name--NN
+stewart	I-actor.name--NN
+starred	O--VVN
+in	O--IN
+
+how	O--WRB
+many	O--JJ
+movies	O--NNS
+has	O--VHZ
+robert	B-director.name--JJ
+wise	I-director.name--NN
+directed	O--VVD
+
+how	O--WRB
+many	O--JJ
+movies	O--NNS
+did	O--VVD
+alfred	B-director.name--NN
+hitchcock	I-director.name--NN
+direct	O--JJ
+
+how	O--WRB
+many	O--JJ
+movies	O--NNS
+has	O--VHZ
+paramount	B-producer.name--JJ
+done	O--VVN
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+know	O--VV
+the	O--DT
+name	O--NN
+of	O--IN
+the	O--DT
+country	O--NN
+from	O--IN
+where	O--WRB
+the	O--DT
+movie	O--NN
+kati	B-movie.name--NN
+patang	I-movie.name--NN
+comes	O--VVZ
+
+what	O--WP
+country	O--NN
+is	O--VBZ
+bullhead	B-movie.name--NN
+
+what	O--WP
+country	O--NN
+made	O--VVD
+black	B-movie.name--JJ
+swan	I-movie.name--NN
+
+what	O--WP
+country	O--NN
+was	O--VBD
+black	B-movie.name--JJ
+swan	I-movie.name--NN
+from	O--IN
+
+what	O--WP
+country	O--NN
+was	O--VBD
+the	O--DT
+movie	O--NN
+made	O--VVD
+
+what	O--WP
+country	O--NN
+did	O--VVD
+deep	B-movie.name--JJ
+blue	I-movie.name--JJ
+sea	I-movie.name--NN
+come	O--VVN
+from	O--IN
+
+origin	O--NN
+of	O--IN
+titanic	B-movie.name--JJ
+
+origin	O--NN
+of	O--IN
+king	B-movie.name--NN
+lear	I-movie.name--NN
+
+when	O--WRB
+will	O--MD
+top	B-movie.name--JJ
+gun	I-movie.name--NN
+be	O--VB
+released	O--VVN
+
+release	O--NN
+year	O--NN
+and	O--CC
+date	O--NN
+for	O--IN
+casino	B-movie.name--NN
+
+when	O--WRB
+did	O--VVD
+will	B-actor.name--MD
+ferrell	I-actor.name--RB
+begin	O--VV
+acting	O--VVG
+
+show	O--VV
+me	O--PP
+when	O--WRB
+24	B-movie.name--CD
+will	O--MD
+be	O--VB
+released	O--VVN
+
+can	O--MD
+i	O--NP
+have	O--VHP
+release	O--NN
+date	O--NN
+of	O--IN
+movie	O--NN
+
+movie	O--NN
+'s	O--POS
+release	O--NN
+date	O--NN
+
+show	O--VV
+me	O--PP
+when	O--WRB
+the	O--DT
+movie	O--NN
+was	O--VBD
+made	O--VVN
+
+when	O--WRB
+the	O--DT
+movie	O--NN
+titanic	B-movie.name--JJ
+was	O--VBD
+released	O--VVN
+
+what	O--WP
+year	O--NN
+did	O--VVD
+the	O--DT
+italian	B-country.name--JJ
+movie	O--NN
+roman	B-movie.name--NN
+holiday	I-movie.name--NN
+come	O--VVN
+out	O--RP
+
+can	O--MD
+you	O--PP
+please	O--VV
+search	O--NN
+for	O--IN
+release	O--NN
+date	O--NN
+for	O--IN
+karate	B-movie.name--NN
+kid	I-movie.name--NN
+
+karate	B-movie.name--NN
+kid	I-movie.name--NN
+release	O--NN
+date	O--NN
+please	O--RB
+
+when	O--WRB
+was	O--VBD
+dirty	B-movie.name--JJ
+dancing	I-movie.name--NN
+released	O--VVN
+
+when	O--WRB
+was	O--VBD
+spaceballs	B-movie.name--NNS
+released	O--VVN
+
+when	O--WRB
+was	O--VBD
+batman	B-movie.name--NN
+released	O--VVN
+
+when	O--WRB
+was	O--VBD
+pretty	B-movie.name--RB
+woman	I-movie.name--NN
+released	O--VVN
+
+when	O--WRB
+was	O--VBD
+men	B-movie.name--NNS
+in	I-movie.name--IN
+black	I-movie.name--JJ
+released	O--VVN
+
+when	O--WRB
+did	O--VVD
+kristen	B-actor.name--NP
+stewart	I-actor.name--NP
+start	O--NN
+acting	O--NN
+
+when	O--WRB
+is	O--VBZ
+possessed	B-movie.name--VVN
+going	O--VVG
+to	O--TO
+be	O--VB
+released	O--VVN
+
+when	O--WRB
+was	O--VBD
+resident	B-movie.name--JJ
+evil	I-movie.name--NN
+released	O--VVN
+
+release	O--NN
+date	O--NN
+for	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+when	O--WRB
+was	O--VBD
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+released	O--VVN
+
+release	O--NN
+date	O--NN
+of	O--IN
+hum	B-movie.name--NN
+tum	I-movie.name--NN
+
+when	O--WRB
+was	O--VBD
+freedom	B-movie.name--NN
+writers	I-movie.name--NNS
+released	O--VVD
+
+when	O--WRB
+was	O--VBD
+avatar	B-movie.name--NN
+released	O--VVN
+
+when	O--WRB
+did	O--VVD
+avatar	B-movie.name--NN
+released	O--VVD
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+know	O--VV
+the	O--DT
+release	O--NN
+date	O--NN
+of	O--IN
+the	O--DT
+movie	O--NN
+avatar	B-movie.name--NN
+
+can	O--MD
+you	O--PP
+tell	O--VV
+me	O--PP
+when	O--WRB
+was	O--VBD
+the	O--DT
+movie	O--NN
+avatar	B-movie.name--NN
+released	O--VVD
+
+when	O--WRB
+was	O--VBD
+date	B-movie.name--NN
+night	I-movie.name--NN
+released	O--VVD
+
+when	O--WRB
+did	O--VVD
+black	B-movie.name--JJ
+swan	I-movie.name--NN
+come	O--VVN
+out	O--RP
+
+when	O--WRB
+did	O--VVD
+avergers	B-movie.name--NNS
+come	O--VV
+out	O--RP
+
+what	O--WP
+date	O--NN
+did	O--VVD
+the	B-movie.name--DT
+amazing	I-movie.name--JJ
+spiderman	I-movie.name--NN
+show	O--NN
+for	O--IN
+the	O--DT
+1st	O--JJ
+time	O--NN
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+release	O--NN
+date	O--NN
+of	O--IN
+vulgaria	B-movie.name--NN
+
+when	O--WRB
+the	O--DT
+movie	O--NN
+the	B-movie.name--DT
+godfather	I-movie.name--NN
+was	O--VBD
+released	O--VVN
+
+when	O--WRB
+does	O--VVZ
+looper	B-movie.name--NN
+come	O--VV
+out	O--RP
+
+can	O--MD
+you	O--PP
+tell	O--VV
+me	O--PP
+the	O--DT
+release	O--NN
+date	O--NN
+of	O--IN
+the	O--DT
+movie	O--NN
+barfi	B-movie.name--NN
+
+what	O--WP
+date	O--NN
+did	O--VVD
+the	O--DT
+movie	O--NN
+heroine	B-movie.name--NN
+come	O--VVN
+out	O--RP
+
+when	O--WRB
+did	O--VVD
+the	O--DT
+house	B-movie.name--NN
+at	I-movie.name--IN
+the	I-movie.name--DT
+end	I-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+street	I-movie.name--NN
+hit	O--NN
+theaters	O--NNS
+
+what	O--WP
+day	O--NN
+is	O--VBZ
+fun	B-movie.name--NN
+size	I-movie.name--NN
+coming	O--VVG
+out	O--RP
+
+what	O--WP
+day	O--NN
+will	O--NN
+django	B-movie.name--NN
+unchained	I-movie.name--VVD
+come	O--VV
+out	O--RP
+
+when	O--WRB
+will	O--MD
+i	O--NP
+be	O--VB
+able	O--JJ
+to	O--TO
+view	O--VV
+iron	B-movie.name--NN
+man	I-movie.name--NN
+3	I-movie.name--CD
+
+on	O--IN
+what	O--WP
+date	O--NN
+will	O--MD
+iron	B-movie.name--VV
+man	I-movie.name--NN
+3	I-movie.name--LS
+be	O--VB
+released	O--VVN
+
+who	O--WP
+directed	O--VVD
+gone	B-movie.name--VVN
+with	I-movie.name--IN
+the	I-movie.name--DT
+wind	I-movie.name--NN
+
+who	O--WP
+was	O--VBD
+the	O--DT
+director	O--NN
+for	O--IN
+black	B-movie.name--JJ
+swan	I-movie.name--NN
+
+tell	O--VV
+me	O--PP
+the	O--DT
+directed	O--VVD
+of	O--IN
+black	B-movie.name--JJ
+swan	I-movie.name--NN
+
+who	O--WP
+is	O--VBZ
+the	O--DT
+director	O--NN
+of	O--IN
+sleepless	B-movie.name--JJ
+in	I-movie.name--IN
+seattle	I-movie.name--NN
+
+find	O--VV
+who	O--WP
+the	O--DT
+director	O--NN
+was	O--VBD
+in	O--IN
+men	B-movie.name--NNS
+in	I-movie.name--IN
+black	I-movie.name--JJ
+3	I-movie.name--CD
+
+locate	O--VV
+the	O--DT
+director	O--NN
+who	O--WP
+created	O--VVD
+the	O--DT
+movie	O--NN
+men	B-movie.name--NNS
+in	I-movie.name--IN
+black	I-movie.name--JJ
+3	I-movie.name--CD
+
+director	O--NN
+of	O--IN
+titanic	B-movie.name--JJ
+
+titanic	B-movie.name--JJ
+director	O--NN
+
+avengers	B-movie.name--NNS
+movie	O--NN
+director	O--NN
+
+dirctor	O--NN
+of	O--IN
+movie	O--NN
+avengers	B-movie.name--NNS
+
+who	O--WP
+was	O--VBD
+the	O--DT
+director	O--NN
+for	O--IN
+nacho	B-movie.name--NN
+libre	I-movie.name--NN
+
+director	O--NN
+for	O--IN
+big	B-movie.name--JJ
+
+who	O--WP
+was	O--VBD
+the	O--DT
+director	O--NN
+of	O--IN
+welcome	B-movie.name--NN
+to	I-movie.name--TO
+the	I-movie.name--DT
+dollhouse	I-movie.name--NN
+
+who	O--WP
+directed	O--VVD
+the	O--DT
+movie	O--NN
+house	B-movie.name--NN
+at	I-movie.name--IN
+the	I-movie.name--DT
+end	I-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+at	I-movie.name--IN
+the	I-movie.name--DT
+street	I-movie.name--NN
+
+who	O--WP
+was	O--VBD
+the	O--DT
+director	O--NN
+of	O--IN
+the	O--DT
+movie	O--NN
+toy	B-movie.name--NN
+story	I-movie.name--NN
+
+list	O--NN
+director	O--NN
+gilda	B-movie.name--NN
+
+who	O--WP
+directed	O--VVD
+field	B-movie.name--NN
+of	I-movie.name--IN
+dreams	I-movie.name--NNS
+
+who	O--WP
+is	O--VBZ
+the	O--DT
+second	O--JJ
+director	O--NN
+on	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+find	O--VV
+director	O--NN
+of	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+who	O--WP
+directed	O--VVD
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+directed	O--VVN
+by	O--IN
+who	O--WP
+
+director	O--NN
+of	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+who	O--WP
+directed	O--VVD
+hitch	B-movie.name--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+know	O--VV
+who	O--WP
+is	O--VBZ
+the	O--DT
+director	O--NN
+of	O--IN
+the	O--DT
+movie	O--NN
+batman	B-movie.name--NN
+
+who	O--WP
+is	O--VBZ
+director	O--NN
+of	O--IN
+the	B-movie.name--DT
+words	I-movie.name--NNS
+
+who	O--WP
+directed	O--VVD
+million	B-movie.name--CD
+dollar	I-movie.name--NN
+baby	I-movie.name--NN
+
+who	O--WP
+was	O--VBD
+the	O--DT
+guy	O--NN
+that	O--WDT
+directed	O--VVD
+moneyball	B-movie.name--NN
+
+who	O--WP
+did	O--VVD
+twilight	B-movie.name--NN
+
+twilight	B-movie.name--NN
+director	O--NN
+
+who	O--WP
+directed	O--VVD
+twilight	B-movie.name--NN
+
+who	O--WP
+directed	O--VVD
+twilight	B-movie.name--NN
+
+who	O--WP
+is	O--VBZ
+the	O--DT
+director	O--NN
+of	O--IN
+hum	B-movie.name--NN
+tum	I-movie.name--NN
+
+look	O--VV
+for	O--IN
+the	O--DT
+director	O--NN
+of	O--IN
+step	B-movie.name--NN
+up	I-movie.name--RB
+
+please	O--UH
+find	O--VV
+the	O--DT
+director	O--NN
+of	O--IN
+freedom	B-movie.name--NN
+writers	I-movie.name--NNS
+
+find	O--VV
+the	O--DT
+director	O--NN
+of	O--IN
+freedom	B-movie.name--NN
+writers	I-movie.name--NNS
+
+look	O--VV
+up	O--RP
+the	O--DT
+director	O--NN
+of	O--IN
+freedom	B-movie.name--NN
+writers	I-movie.name--NNS
+
+find	O--VV
+the	O--DT
+director	O--NN
+of	O--IN
+freedom	B-movie.name--NN
+writers	I-movie.name--NNS
+
+who	O--WP
+directed	O--VVD
+baby	B-movie.name--NN
+mama	I-movie.name--NN
+
+godfather	B-movie.name--NN
+director	O--NN
+
+show	O--VV
+me	O--PP
+who	O--WP
+directed	O--VVD
+the	B-movie.name--DT
+sound	I-movie.name--NN
+of	I-movie.name--IN
+music	I-movie.name--NN
+
+who	O--WP
+directed	O--VVD
+the	B-movie.name--DT
+sound	I-movie.name--NN
+of	I-movie.name--IN
+music	I-movie.name--NN
+
+who	O--WP
+directed	O--VVD
+the	B-movie.name--DT
+sound	I-movie.name--NN
+of	I-movie.name--IN
+music	I-movie.name--NN
+
+find	O--VV
+the	O--DT
+name	O--NN
+of	O--IN
+the	O--DT
+director	O--NN
+of	O--IN
+return	B-movie.name--NN
+
+show	O--NN
+movie	O--NN
+avengers	B-movie.name--NNS
+director	O--NN
+name	O--NN
+
+name	O--VV
+the	O--DT
+director	O--NN
+in	O--IN
+sleepless	B-movie.name--JJ
+in	I-movie.name--IN
+seattle	I-movie.name--NN
+
+what	O--WP
+'s	O--VBZ
+the	O--DT
+genre	O--NN
+for	O--IN
+black	B-movie.name--JJ
+swan	I-movie.name--NN
+
+what	O--WP
+is	O--VBZ
+black	B-movie.name--JJ
+swan	B-movie.name--NN
+'s	O--POS
+genre	O--NN
+
+what	O--WP
+genre	O--NN
+is	O--VBZ
+parenthood	B-movie.name--NN
+
+what	O--WP
+kind	O--NN
+of	O--IN
+movie	O--NN
+is	O--VBZ
+parenthood	B-movie.name--NN
+
+genre	O--NN
+for	O--IN
+pride	B-movie.name--NN
+and	I-movie.name--CC
+prejudice	I-movie.name--NN
+
+can	O--MD
+you	O--PP
+tell	O--VV
+me	O--PP
+the	O--DT
+genre	O--NN
+of	O--IN
+the	O--DT
+movie	O--NN
+lawless	B-movie.name--JJ
+
+show	O--VV
+me	O--PP
+what	O--WP
+genre	O--NN
+does	O--VVZ
+movie	O--NN
+lawless	B-movie.name--JJ
+belongs	O--VVZ
+to	O--TO
+
+genre	O--NN
+for	O--IN
+snow	B-movie.name--NN
+white	I-movie.name--NN
+and	I-movie.name--CC
+the	I-movie.name--DT
+huntsman	I-movie.name--NN
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+movie	O--NN
+type	O--NN
+
+what	O--WP
+'s	O--VBZ
+the	O--DT
+genre	O--NN
+of	O--IN
+rushmore	B-movie.name--NN
+
+get	O--VV
+the	O--DT
+genre	O--NN
+of	O--IN
+welcome	B-movie.name--NN
+to	I-movie.name--TO
+the	I-movie.name--DT
+dollhouse	I-movie.name--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+find	O--VV
+the	O--DT
+genre	O--NN
+freedom	B-movie.name--NN
+writers	I-movie.name--NNS
+is	O--VBZ
+in	O--IN
+
+what	O--WP
+genre	O--NN
+is	O--VBZ
+freedom	B-movie.name--NN
+writers	I-movie.name--NNS
+in	O--IN
+
+genre	O--NN
+for	O--IN
+batman	B-movie.name--NN
+
+give	O--VV
+me	O--PP
+the	O--DT
+genre	O--NN
+of	O--IN
+the	O--DT
+movie	O--NN
+avatar	B-movie.name--NN
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+know	O--VV
+the	O--DT
+genre	O--NN
+of	O--IN
+the	O--DT
+movie	O--NN
+avatar	B-movie.name--NN
+
+genre	O--NN
+for	O--IN
+bad	B-movie.name--JJ
+teacher	I-movie.name--NN
+
+can	O--MD
+you	O--PP
+tell	O--VV
+me	O--PP
+pretty	B-movie.name--JJ
+girl	I-movie.name--NN
+the	O--DT
+movie	O--NN
+'s	O--POS
+genre	O--NN
+
+what	O--WP
+genre	O--NN
+is	O--VBZ
+the	O--DT
+movie	O--NN
+pitch	B-movie.name--NN
+perfect	I-movie.name--JJ
+
+in	O--IN
+what	O--WP
+language	O--NN
+is	O--VBZ
+this	O--DT
+movie	O--NN
+
+what	O--WP
+language	O--NN
+is	O--VBZ
+this	O--DT
+movie	O--NN
+
+what	O--WP
+language	O--NN
+is	O--VBZ
+the	O--DT
+movie	O--NN
+hero	B-movie.name--NN
+in	O--IN
+
+language	O--NN
+of	O--IN
+king	B-movie.name--NN
+lear	I-movie.name--NN
+
+language	O--NN
+of	O--IN
+casa	B-movie.name--NN
+blanca	I-movie.name--NN
+
+what	O--WP
+language	O--NN
+is	O--VBZ
+head	B-movie.name--NN
+on	I-movie.name--IN
+in	O--IN
+
+language	O--NN
+of	O--IN
+spanglish	B-movie.name--NN
+
+find	O--VV
+out	O--RP
+what	O--WP
+language	O--NN
+the	B-movie.name--DT
+father	I-movie.name--NN
+of	I-movie.name--IN
+my	I-movie.name--PP$
+children	I-movie.name--NNS
+is	O--VBZ
+in	O--IN
+
+i	O--NNS
+am	O--VBP
+intersted	O--VVN
+in	O--IN
+viewing	O--VVG
+belle	B-movie.name--NN
+what	O--WP
+foreign	O--JJ
+language	O--NN
+is	O--VBZ
+the	O--DT
+movie	O--NN
+available	O--JJ
+in	O--IN
+
+i	O--NNS
+need	O--VVP
+to	O--TO
+find	O--VV
+out	O--RP
+about	O--IN
+names	O--NNS
+of	O--IN
+some	O--DT
+japanese	B-movie.language--JJ
+movies	O--NNS
+
+can	O--MD
+you	O--PP
+tell	O--VV
+me	O--PP
+names	O--NNS
+of	O--IN
+some	O--DT
+japanese	B-movie.language--JJ
+movies	O--NNS
+
+ron	B-producer.name--NNS
+howard	I-producer.name--RB
+name	O--VVP
+some	O--DT
+of	O--IN
+the	O--DT
+movies	O--NNS
+he	O--PP
+produce	O--VVP
+
+tell	O--VV
+me	O--PP
+the	O--DT
+names	O--NNS
+of	O--IN
+the	O--DT
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+william	B-producer.name--NP
+packer	I-producer.name--NN
+
+about	O--IN
+life	B-movie.name--NN
+is	I-movie.name--VBZ
+beautiful	I-movie.name--JJ
+
+show	O--VV
+me	O--PP
+info	O--NN
+on	O--IN
+life	B-movie.name--NN
+is	I-movie.name--VBZ
+beautiful	I-movie.name--JJ
+
+find	O--VV
+old	O--JJ
+movies	O--NNS
+
+find	O--VV
+movie	O--NN
+ratings	O--NNS
+
+find	O--VV
+newly	O--RB
+released	O--VVN
+movies	O--NNS
+in	O--IN
+spanish	B-movie.language--NN
+
+was	O--VBD
+bill	B-actor.name--NN
+paxton	I-actor.name--NN
+in	O--IN
+the	O--DT
+movie	O--NN
+apollo	B-movie.name--NN
+thirteen	I-movie.name--CD
+
+was	O--VBD
+kevin	B-actor.name--NN
+bacon	I-actor.name--NN
+in	O--IN
+the	O--DT
+movie	O--NN
+apollo	B-movie.name--NN
+thirteen	I-movie.name--CD
+
+find	O--VV
+movies	O--NNS
+about	O--IN
+dancing	B-movie.subject--NN
+
+search	O--NN
+for	O--IN
+movies	O--NNS
+about	O--IN
+dancing	B-movie.subject--NN
+
+show	O--NN
+will	B-actor.name--MD
+ferrell	I-actor.name--VV
+films	O--NNS
+
+will	B-actor.name--MD
+ferrell	I-actor.name--NP
+movies	O--NNS
+
+what	O--WP
+movies	O--NNS
+has	O--VHZ
+will	B-actor.name--NN
+ferrell	I-actor.name--NN
+appeared	O--VVD
+in	O--IN
+
+find	O--VV
+russian	B-movie.language--JJ
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+the	O--DT
+movie	O--NN
+pretty	B-movie.name--JJ
+women	B-movie.name--NNS
+so	O--IN
+i	O--NP
+can	O--MD
+see	O--VV
+who	O--WP
+starred	O--VVD
+in	O--IN
+the	O--DT
+movie	O--NN
+
+feral	B-movie.name--JJ
+
+the	O--DT
+movie	O--NN
+is	O--VBZ
+called	O--VVN
+big	B-movie.name--JJ
+
+will	B-actor.name--MD
+smith	I-actor.name--NN
+acting	O--VVG
+carrer	O--NN
+
+how	O--WRB
+many	O--JJ
+movies	O--NNS
+did	O--VVD
+peter	B-director.name--NN
+jackson	I-director.name--NNS
+do	O--VVP
+
+movies	O--NNS
+and	O--CC
+gross	O--JJ
+payment	O--NN
+
+search	O--NN
+for	O--IN
+tim	B-director.name--NN
+burton	I-director.name--NN
+movies	O--NNS
+in	O--IN
+french	B-movie.language--NNS
+
+exhibit	O--VV
+all	O--DT
+details	O--NNS
+of	O--IN
+original	O--JJ
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+movie	O--NN
+
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+movie	O--NN
+
+find	O--VV
+the	O--DT
+movie	O--NN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+i	O--NNS
+am	O--VBP
+looking	O--VVG
+for	O--IN
+information	O--NN
+on	O--IN
+the	O--DT
+movie	O--NN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+show	O--VV
+me	O--PP
+details	O--NNS
+for	O--IN
+the	O--DT
+movie	O--NN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+what	O--WP
+did	O--VVD
+andrew	B-director.name--NN
+stanton	I-director.name--NN
+direct	O--JJ
+
+show	O--VV
+me	O--PP
+some	O--DT
+other	O--JJ
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+andrew	B-director.name--JJ
+stanton	I-director.name--NN
+
+display	O--NN
+albert	B-actor.name--NN
+brooks	I-actor.name--VVZ
+movie	O--NN
+
+show	O--VV
+a	O--DT
+movie	O--NN
+with	O--IN
+albert	B-actor.name--NN
+brooks	I-actor.name--NNS
+in	O--IN
+the	O--DT
+cast	O--NN
+
+what	O--WP
+other	O--JJ
+films	O--NNS
+has	O--VHZ
+sergio	B-director.name--NN
+leone	I-director.name--NN
+directed	O--VVD
+
+what	O--WP
+movies	O--NNS
+has	O--VHZ
+george	B-producer.name--NN
+harrison	I-producer.name--NN
+produced	O--VVD
+
+what	O--WP
+has	O--VHZ
+charlie	B-actor.name--NN
+sheen	I-actor.name--NN
+starred	O--VVN
+in	O--IN
+
+please	O--UH
+find	O--VV
+the	O--DT
+movies	O--NNS
+in	O--IN
+which	O--WDT
+clive	B-actor.name--JJ
+owen	I-actor.name--NN
+has	O--VHZ
+appeared	O--VVN
+
+in	O--IN
+which	O--WDT
+movies	O--NNS
+has	O--VHZ
+clive	B-actor.name--JJ
+owen	I-actor.name--NNS
+appear	O--VVP
+
+spike	B-director.name--NN
+lee	I-director.name--NN
+directed	O--VVD
+what	O--WP
+movie	O--NN
+
+search	O--NN
+for	O--IN
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+spike	B-director.name--NN
+lee	I-director.name--NN
+
+movie	O--NN
+release	O--NN
+dates	O--NNS
+
+director	O--NN
+information	O--NN
+for	O--IN
+movies	O--NNS
+
+movies	O--NNS
+by	O--IN
+director	O--NN
+
+please	O--UH
+list	O--VV
+all	O--DT
+movies	O--NNS
+not	O--RB
+rated	O--VVN
+pg	B-rating.name--NN
+
+find	O--VV
+movies	O--NNS
+
+i	O--NNS
+want	O--VVP
+a	O--DT
+list	O--NN
+of	O--IN
+english	B-movie.language--JJ
+speaking	O--NN
+movies	O--NNS
+
+a	O--DT
+list	O--NN
+of	O--IN
+movies	O--NNS
+made	O--VVN
+in	O--IN
+america	B-country.name--NN
+
+are	O--VBP
+there	O--RB
+any	O--DT
+movies	O--NNS
+produced	O--VVN
+in	O--IN
+the	B-country.name--DT
+united	B-country.name--VVN
+states	I-country.name--NNS
+
+show	O--VV
+english	B-movie.language--JJ
+movies	O--NNS
+
+search	O--NN
+english	B-movie.language--NN
+movies	O--NNS
+
+comedy	B-movie.genre--NN
+
+find	O--VV
+a	O--DT
+comedy	B-movie.genre--NN
+
+watch	O--VV
+comedy	B-movie.genre--NN
+movies	O--NNS
+
+get	O--VV
+horror	B-movie.genre--NN
+films	O--NNS
+
+show	O--VV
+me	O--PP
+horror	B-movie.genre--NN
+movies	O--NNS
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+a	O--DT
+listing	O--NN
+of	O--IN
+horror	B-movie.genre--NN
+movies	O--NNS
+
+show	O--NN
+actor	O--NN
+bruce	B-actor.name--NN
+willis	I-actor.name--NN
+movies	O--NNS
+
+which	O--WDT
+movies	O--NNS
+did	O--VVD
+bruce	B-actor.name--NN
+willis	I-actor.name--NNS
+star	O--JJ
+in	O--IN
+
+list	O--NN
+movies	O--NNS
+with	O--IN
+bruce	B-actor.name--NN
+willis	I-actor.name--NNS
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+made	O--VVN
+in	O--IN
+canada	B-country.name--NP
+
+can	O--MD
+i	O--NNS
+watch	O--VV
+a	O--DT
+canadian	B-country.name--JJ
+film	O--NN
+
+see	O--VV
+canadian	B-country.name--JJ
+movies	O--NNS
+
+search	O--NN
+for	O--IN
+information	O--NN
+about	O--IN
+canadian	B-country.name--JJ
+movies	O--NNS
+
+I	O--PP
+'d	O--MD
+like	O--VV
+to	O--TO
+see	O--VV
+some	O--DT
+italian	B-country.name--JJ
+films	O--NNS
+
+show	O--VV
+me	O--PP
+something	O--NN
+italian	B-country.name--NN
+-	O--:
+made	O--VVN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+a	O--DT
+movie	O--NN
+from	O--IN
+spain	B-country.name--NN
+
+find	O--VV
+movies	O--NNS
+from	O--IN
+spain	B-country.name--NN
+
+spain	B-country.name--NN
+country	O--NN
+movies	O--NNS
+
+display	O--VV
+a	O--DT
+list	O--NN
+of	O--IN
+spanish	B-country.name--JJ
+films	O--NNS
+
+spanish	B-country.name--JJ
+movie	O--NN
+listing	O--NN
+
+spanish	B-country.name--JJ
+movies	O--NNS
+
+find	O--VV
+actors	O--NNS
+in	O--IN
+movies	O--NNS
+
+search	O--NN
+by	O--IN
+actors	O--NNS
+
+find	O--VV
+some	O--DT
+romantic	B-movie.genre--JJ
+movies	O--NNS
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+a	O--DT
+movie	O--NN
+in	O--IN
+french	B-movie.language--NNS
+
+gwyneth	B-actor.name--NP
+paltrow	I-actor.name--NP
+movies	O--NNS
+
+find	O--VV
+movies	O--NNS
+with	O--IN
+quentin	B-director.name--NN
+tarantino	I-director.name--NN
+as	O--IN
+director	O--NN
+
+england	B-country.name--NN
+movies	O--NNS
+
+england	B-country.name--NN
+movies	O--NNS
+please	O--VVP
+
+find	O--VV
+david	B-actor.name--JJ
+tennant	I-actor.name--NN
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+what	O--WP
+richard	B-director.name--NN
+lester	I-director.name--NN
+directed	O--VVD
+
+get	O--VV
+films	O--NNS
+in	O--IN
+hindi	B-movie.language--NNS
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+from	O--IN
+india	B-country.name--NN
+
+what	O--WP
+is	O--VBZ
+a	O--DT
+british	B-country.name--JJ
+horror	B-movie.genre--NN
+movie	O--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+watch	O--VV
+an	O--DT
+r	B-rating.name--NN
+rated	O--VVN
+comedy	B-movie.genre--NN
+
+list	O--NN
+of	O--IN
+french	B-movie.language--JJ
+language	I-movie.language--NN
+comedies	B-movie.genre--NNS
+
+look	O--NN
+for	O--IN
+dirty	B-movie.name--JJ
+dancing	I-movie.name--NN
+movie	O--NN
+with	O--IN
+jennifer	B-actor.name--NN
+grey	I-actor.name--NN
+
+tell	O--VV
+me	O--PP
+in	O--IN
+detail	O--NN
+about	O--IN
+the	O--DT
+movie	O--NN
+dirty	B-movie.name--JJ
+dancing	I-movie.name--NN
+
+tell	O--VV
+about	O--IN
+movie	O--NN
+dirty	B-movie.name--JJ
+dancing	I-movie.name--NN
+
+can	O--MD
+i	O--NNS
+see	O--VV
+a	O--DT
+list	O--NN
+of	O--IN
+bette	B-actor.name--NN
+midler	I-actor.name--NN
+movies	O--NNS
+
+list	O--NN
+of	O--IN
+movies	O--NNS
+starring	O--VVG
+bette	B-actor.name--NN
+midler	I-actor.name--NN
+
+show	O--VV
+me	O--PP
+all	O--RB
+of	O--IN
+anne	B-actor.name--NN
+hathaway	I-actor.name--NN
+'s	O--POS
+movies	O--NNS
+
+what	O--WP
+movies	O--NNS
+has	O--VHZ
+sandra	B-producer.name--NN
+bullock	I-producer.name--NN
+produced	O--VVD
+
+find	O--VV
+me	O--PP
+movies	O--NNS
+from	O--IN
+portugal	B-country.name--NN
+
+what	O--WP
+movies	O--NNS
+has	O--VHZ
+robert	B-actor.name--VVN
+redford	I-actor.name--NNS
+been	O--VBN
+in	O--IN
+
+dirty	B-movie.name--JJ
+dancing	I-movie.name--NN
+info	O--NN
+
+dirty	B-movie.name--JJ
+dancing	I-movie.name--NN
+
+give	O--VV
+a	O--DT
+short	O--JJ
+bio	O--NN
+for	O--IN
+dirty	B-movie.name--JJ
+dancing	I-movie.name--NN
+
+about	O--IN
+dirty	B-movie.name--JJ
+dancing	I-movie.name--NN
+
+movies	O--NNS
+from	O--IN
+japan	B-country.name--NN
+
+show	O--NN
+movies	O--NNS
+from	O--IN
+japan	B-country.name--NN
+
+list	O--NN
+japanese	B-movie.language--NN
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+japanese	B-movie.language--JJ
+movies	O--NNS
+
+give	O--VV
+me	O--PP
+a	O--DT
+list	O--NN
+of	O--IN
+some	O--DT
+japanese	B-movie.language--JJ
+movies	O--NNS
+
+give	O--VV
+me	O--PP
+a	O--DT
+list	O--NN
+of	O--IN
+japanese	B-movie.language--JJ
+movies	O--NNS
+
+japanese	B-movie.language--JJ
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+japanese	B-movie.language--JJ
+language	I-movie.language--NN
+movies	O--NNS
+
+which	O--WDT
+films	O--NNS
+are	O--VBP
+spoken	O--VVN
+in	O--IN
+japanese	B-movie.language--NN
+
+miramax	B-producer.name--NN
+films	I-producer.name--NNS
+only	O--RB
+
+show	O--NN
+movies	O--NNS
+by	O--IN
+miramax	B-producer.name--NN
+
+search	O--NN
+sandra	B-actor.name--NN
+bullock	I-actor.name--NN
+movies	O--NNS
+
+watch	O--NN
+sandra	B-actor.name--NN
+bullock	I-actor.name--NN
+movies	O--NNS
+
+find	O--VV
+movies	O--NNS
+about	O--IN
+vampires	B-movie.subject--NNS
+
+find	O--VV
+movies	O--NNS
+having	O--VHG
+vampires	B-movie.subject--NNS
+
+will	B-actor.name--MD
+smith	I-actor.name--NN
+movies	O--NNS
+
+cars	B-movie.name--NNS
+movie	O--NN
+
+what	O--WP
+movies	O--NNS
+did	O--VVD
+darla	B-producer.name--NN
+anderson	I-producer.name--NN
+produce	O--NN
+
+what	O--WP
+films	O--NNS
+are	O--VBP
+made	O--VVN
+by	O--IN
+paramount	B-producer.name--NN
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+by	O--IN
+paramount	B-producer.name--NN
+
+what	O--WP
+movies	O--NNS
+has	O--VHZ
+paramount	B-producer.name--JJ
+released	O--VVN
+
+show	O--VV
+all	O--DT
+movies	O--NNS
+from	O--IN
+turkey	B-country.name--NN
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+bruce	B-producer.name--NN
+lee	I-producer.name--NN
+
+is	O--VBZ
+parenthood	B-movie.name--NN
+a	O--DT
+drama	B-movie.genre--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+an	O--DT
+kevin	B-actor.name--NN
+james	I-actor.name--VVZ
+film	O--NN
+tonight	O--NN
+
+find	O--VV
+films	O--NNS
+from	O--IN
+china	B-country.name--NN
+
+get	O--VV
+films	O--NNS
+from	O--IN
+china	B-country.name--NN
+
+i	O--NP
+'d	O--MD
+like	O--VV
+to	O--TO
+watch	O--VV
+a	O--DT
+movie	O--NN
+made	O--VVN
+in	O--IN
+china	B-country.name--NN
+
+list	O--VV
+some	O--DT
+movies	O--NNS
+from	O--IN
+china	B-country.name--NN
+
+chinese	B-movie.language--JJ
+films	O--NNS
+
+show	O--VV
+me	O--PP
+other	O--JJ
+chinese	B-movie.language--JJ
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+chinese	B-movie.language--JJ
+movies	O--NNS
+
+what	O--WP
+movies	O--NNS
+have	O--VHP
+a	O--DT
+pg-13	B-rating.name--JJ
+rating	O--NN
+
+please	O--VV
+list	O--NN
+movies	O--NNS
+that	O--WDT
+are	O--VBP
+rated	O--VVN
+pg-13	B-rating.name--NN
+
+i	O--NNS
+need	O--VVP
+a	O--DT
+g	B-rating.name--NN
+rating	O--NN
+so	O--IN
+i	O--NP
+can	O--MD
+take	O--VV
+the	O--DT
+kids	O--NNS
+
+find	O--VV
+a	O--DT
+g	B-rating.name--NN
+rated	O--VVN
+movie	O--NN
+
+find	O--VV
+g	B-rating.name--NN
+movies	O--NNS
+
+find	O--VV
+g	B-rating.name--NN
+movies	O--NNS
+
+i	O--NNS
+want	O--VVP
+rated	O--VVN
+g	B-rating.name--NN
+movies	O--NNS
+
+look	O--VV
+up	O--RP
+g	B-rating.name--NN
+rated	O--VVN
+movies	O--NNS
+
+i	O--NNS
+am	O--VBP
+searching	O--VVG
+for	O--IN
+any	O--DT
+g	B-rating.name--NN
+rated	O--VVN
+movies	O--NNS
+for	O--IN
+my	O--PP$
+children	O--NNS
+to	O--TO
+view	O--VV
+
+rated	O--VVN
+g	B-rating.name--NN
+movies	O--NNS
+for	O--IN
+family	O--NN
+watching	O--NN
+
+find	O--VV
+g	B-rating.name--NN
+rated	O--VVN
+movies	O--NNS
+
+are	O--VBP
+there	O--RB
+any	O--DT
+movies	O--NNS
+rated	O--VVD
+g	B-rating.name--NN
+playing	O--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+movies	O--NNS
+rated	O--VVN
+g	B-rating.name--NN
+
+find	O--VV
+movies	O--NNS
+rated	O--VVN
+g	B-rating.name--NN
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+with	O--IN
+g	B-rating.name--NN
+rating	O--NN
+
+did	O--VVD
+robert	B-director.name--JJ
+wise	I-director.name--NN
+direct	O--VV
+any	O--DT
+other	O--JJ
+musicals	O--NNS
+
+bruce	B-producer.name--NN
+lee	I-producer.name--NN
+produced	O--VVD
+movie	O--NN
+listing	O--NN
+
+what	O--WP
+was	O--VBD
+the	O--DT
+last	O--JJ
+movie	O--NN
+made	O--VVN
+by	O--IN
+robert	B-director.name--NN
+wise	I-director.name--NN
+
+find	O--VV
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+mgm	B-producer.name--NN
+
+show	O--VV
+me	O--PP
+british	B-country.name--RB
+made	O--VVD
+movies	O--NNS
+
+movies	O--NNS
+from	O--IN
+the	B-country.name--DT
+uk	I-country.name--NN
+
+find	O--VV
+me	O--PP
+movies	O--NNS
+from	O--IN
+the	B-country.name--DT
+uk	I-country.name--NN
+
+can	O--MD
+you	O--PP
+list	O--VV
+ron	B-producer.name--JJ
+howard	I-producer.name--JJ
+movie	O--NN
+production	O--NN
+
+i	O--NNS
+need	O--VVP
+to	O--TO
+know	O--VV
+the	O--DT
+movies	O--NNS
+produce	O--VVP
+by	O--IN
+ron	B-producer.name--NN
+howard	I-producer.name--NN
+
+did	O--VVD
+clint	B-director.name--NN
+eastwood	I-director.name--NN
+direct	O--VV
+any	O--DT
+other	O--JJ
+movies	O--NNS
+besides	O--IN
+million	B-movie.name--CD
+dollar	I-movie.name--NN
+baby	I-movie.name--NN
+
+find	O--VV
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+clint	B-director.name--NN
+eastwood	I-director.name--NN
+
+what	O--WP
+movies	O--NNS
+have	O--VHP
+been	O--VBN
+directed	O--VVN
+by	O--IN
+clint	B-director.name--NN
+eastwood	I-director.name--NN
+
+list	O--VV
+all	O--DT
+movies	O--NNS
+that	O--WDT
+were	O--VBD
+directed	O--VVN
+by	O--IN
+clint	B-director.name--NN
+eastwood	I-director.name--NN
+
+what	O--WP
+movies	O--NNS
+has	O--VHZ
+clint	B-director.name--JJ
+eastwood	I-director.name--NN
+directed	O--VVD
+
+show	O--NN
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+clint	B-director.name--NN
+eastwood	I-director.name--NN
+
+find	O--VV
+all	O--DT
+films	O--NNS
+by	O--IN
+stanley	B-director.name--NN
+kubrick	I-director.name--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+select	O--VV
+the	O--DT
+option	O--NN
+to	O--TO
+search	O--VV
+for	O--IN
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+stephen	B-producer.name--NN
+spielberg	I-producer.name--NN
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+search	O--VV
+for	O--IN
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+stephen	B-producer.name--NN
+speilberg	I-producer.name--NN
+
+show	O--VV
+me	O--PP
+japanese	B-movie.language--JJ
+horror	B-movie.genre--NN
+movies	O--NNS
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+see	O--VV
+movies	O--NNS
+ron	B-director.name--NNS
+howard	I-director.name--RB
+directed	O--VVN
+
+movies	O--NNS
+by	O--IN
+stephen	B-producer.name--NN
+spielberg	I-director.name--NN
+
+movies	O--NNS
+by	O--IN
+stephen	B-producer.name--NN
+spielberg	I-director.name--NN
+
+what	O--WP
+movies	O--NNS
+did	O--VVD
+stephen	B-producer.name--NN
+spielberg	I-director.name--NNS
+direct	O--JJ
+
+list	O--NN
+steven	B-director.name--JJ
+spielberg	I-director.name--NN
+movies	O--NNS
+
+steven	B-director.name--JJ
+spielberg	I-director.name--NN
+movie	O--NN
+
+steven	B-director.name--JJ
+spielberg	I-director.name--NN
+movies	O--NNS
+please	O--VVP
+
+directed	O--VVN
+by	O--IN
+steven	B-director.name--JJ
+spielberg	I-director.name--NN
+
+find	O--VV
+the	O--DT
+steven	B-director.name--JJ
+spielberg	I-director.name--NN
+movies	O--NNS
+
+find	O--VV
+movies	O--NNS
+from	O--IN
+steven	B-director.name--JJ
+spielberg	I-director.name--NN
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+watch	O--VV
+a	O--DT
+movie	O--NN
+directed	O--VVN
+by	O--IN
+eddie	B-director.name--NN
+murphy	I-director.name--NN
+
+the	B-movie.name--DT
+camp	I-movie.name--NN
+
+watch	O--NN
+sandra	B-actor.name--NN
+bullock	I-actor.name--NN
+the	B-movie.name--DT
+blind	I-movie.name--JJ
+side	I-movie.name--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+movies	O--NNS
+with	O--IN
+hugh	B-actor.name--NN
+jackman	I-actor.name--NN
+
+list	O--NN
+movies	O--NNS
+with	O--IN
+kevin	B-actor.name--NP
+spacey	I-actor.name--NP
+
+look	O--NN
+for	O--IN
+movies	O--NNS
+from	O--IN
+france	B-country.name--NN
+
+can	O--MD
+you	O--PP
+show	O--VV
+me	O--PP
+movies	O--NNS
+that	O--WDT
+were	O--VBD
+made	O--VVN
+in	O--IN
+france	B-country.name--NN
+
+find	O--VV
+me	O--PP
+any	O--DT
+movies	O--NNS
+that	O--WDT
+were	O--VBD
+made	O--VVN
+in	O--IN
+france	B-country.name--NN
+
+french	B-movie.language--NN
+movies	O--NNS
+please	O--VVP
+
+french	B-movie.language--NN
+movies	O--NNS
+
+find	O--VV
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+
+movies	O--NNS
+by	O--IN
+producers	O--NNS
+
+display	O--NN
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+
+find	O--VV
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+mosfilm	B-producer.name--NN
+
+what	O--WP
+was	O--VBD
+kristen	B-actor.name--NP
+stewart	I-actor.name--NP
+'s	O--POS
+first	O--JJ
+movie	O--NN
+
+get	O--VV
+me	O--PP
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+miranda	B-director.name--NN
+july	I-director.name--RB
+
+tom	B-actor.name--NN
+hanks	I-actor.name--NNS
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+with	O--IN
+tom	B-actor.name--NN
+hanks	I-actor.name--NNS
+
+i	O--NNS
+am	O--VBP
+trying	O--VVG
+to	O--TO
+find	O--VV
+a	O--DT
+list	O--NN
+of	O--IN
+movies	O--NNS
+with	O--IN
+tom	B-actor.name--NN
+hanks	I-actor.name--NNS
+
+provide	O--VV
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+oliver	B-director.name--JJR
+stone	I-director.name--NN
+please	O--VV
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+look	O--VV
+for	O--IN
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+albert	B-producer.name--NN
+ruddy	I-producer.name--JJ
+
+what	O--WP
+are	O--VBP
+all	O--RB
+of	O--IN
+the	O--DT
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+albert	B-producer.name--NN
+ruddy	I-producer.name--JJ
+
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+yash	B-producer.name--NN
+chopra	I-producer.name--NN
+
+what	O--WP
+did	O--VVD
+brad	B-producer.name--NN
+pitt	I-producer.name--NN
+porduce	O--NN
+
+bring	O--VV
+up	O--RP
+all	O--DT
+brad	B-producer.name--NN
+pitt	I-producer.name--NN
+produced	O--VVD
+movies	O--NNS
+
+show	O--VV
+all	O--DT
+movies	O--NNS
+that	O--IN/that
+penny	B-director.name--NN
+marshall	I-director.name--NN
+directed	O--VVD
+
+i	O--NNS
+need	O--VVP
+a	O--DT
+list	O--NN
+of	O--IN
+all	O--PDT
+the	O--DT
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+james	B-director.name--NNS
+cameron	I-director.name--NN
+
+give	O--VV
+me	O--PP
+a	O--DT
+list	O--NN
+of	O--IN
+all	O--PDT
+the	O--DT
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+james	B-director.name--NNS
+cameron	I-director.name--NN
+
+james	B-producer.name--NNS
+cameron	I-producer.name--NN
+movies	O--NNS
+produced	O--VVD
+
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+james	B-producer.name--NNS
+cameron	I-producer.name--NN
+
+what	O--WP
+films	O--NNS
+have	O--VHP
+been	O--VBN
+produced	O--VVN
+by	O--IN
+warner	B-producer.name--NN
+bros.	I-producer.name--NN
+
+find	O--VV
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+warner	B-producer.name--NN
+bros.	I-producer.name--NN
+
+what	O--WP
+movies	O--NNS
+have	O--VHP
+been	O--VBN
+produced	O--VVN
+by	O--IN
+warner	B-producer.name--NN
+bros.	I-producer.name--NN
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+by	B-producer.name--IN
+wb	O--NN
+
+give	O--VV
+me	O--PP
+information	O--NN
+about	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+i	O--NNS
+want	O--VVP
+information	O--NN
+about	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+show	O--VV
+me	O--PP
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+bing	O--NNS
+
+search	O--NN
+finding	B-movie.name--NN
+nemo	I-movie.name--NN
+
+show	O--NN
+information	O--NN
+page	O--NN
+for	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+the	B-movie.name--DT
+campaign	I-movie.name--NN
+information	O--NN
+
+more	O--JJR
+information	O--NN
+on	O--IN
+apallo	B-movie.name--NP
+thirteen	I-movie.name--CD
+
+research	O--NN
+apollo	B-movie.name--NN
+thirteen	I-movie.name--CD
+
+has	O--VHZ
+kristen	B-actor.name--NN
+stewart	I-actor.name--NN
+starred	O--VVN
+in	O--IN
+movies	O--NNS
+other	O--JJ
+than	O--IN
+twilight	B-movie.name--NN
+
+show	O--VV
+me	O--PP
+kristen	B-actor.name--NN
+stewart	I-actor.name--NN
+movies	O--NNS
+
+what	O--WP
+movies	O--NNS
+has	O--VHZ
+kristen	B-actor.name--NN
+stewarted	I-actor.name--NN
+starred	O--VVN
+in	O--IN
+
+lionsgate	B-producer.name--NN
+movies	O--NNS
+
+show	O--NN
+lionsgate	B-producer.name--NN
+movies	O--NNS
+
+show	O--NN
+movies	O--NNS
+made	O--VVN
+by	O--IN
+production	O--NN
+lionsgate	B-producer.name--NNS
+
+give	O--VV
+me	O--PP
+something	O--NN
+by	O--IN
+charles	B-director.name--NNS
+vidor	I-director.name--NN
+
+show	O--NN
+charles	B-director.name--NNS
+vidor	I-director.name--NN
+movie	O--NN
+
+what	O--WP
+film	O--NN
+did	O--VVD
+charles	B-director.name--NNS
+vidor	I-director.name--NN
+direct	O--JJ
+
+which	O--WDT
+movies	O--NNS
+have	O--VHP
+been	O--VBN
+made	O--VVN
+outside	O--IN
+the	B-country.name--DT
+united	I-country.name--VVN
+states	I-country.name--NNS
+
+find	O--VV
+me	O--PP
+nigeria	B-country.name--NN
+movies	O--NNS
+
+display	O--NN
+7	B-producer.name--CD
+arts	I-producer.name--NNS
+movies	O--NNS
+
+korean	B-movie.language--JJ
+movie	O--NN
+
+what	O--WP
+other	O--JJ
+movies	O--NNS
+did	O--VVD
+roberto	B-actor.name--NN
+benigni	I-actor.name--NNS
+star	O--JJ
+in	O--IN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+movies	O--NNS
+starring	O--VVG
+denzel	B-actor.name--NN
+washington	I-actor.name--NNS
+please	O--VVP
+
+list	O--VV
+the	O--DT
+kareena	B-actor.name--NN
+'s	O--POS
+movie	O--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+watch	O--VV
+a	O--DT
+drama	B-movie.genre--NN
+made	O--VVN
+in	O--IN
+turkey	B-country.name--NN
+
+jennifer	B-actor.name--NP
+lopez	I-actor.name--NP
+played	O--VVD
+in	O--IN
+what	O--WP
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+all	O--RB
+of	O--IN
+the	O--DT
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+woody	B-director.name--JJ
+allen	I-director.name--NN
+
+show	O--NN
+robert	B-director.name--NN
+wise	I-director.name--JJ
+movies	O--NNS
+
+want	O--VVP
+to	O--TO
+see	O--VV
+robert	B-director.name--JJ
+wise	I-director.name--JJ
+movies	O--NNS
+
+what	O--WP
+movies	O--NNS
+has	O--VHZ
+robert	B-director.name--JJ
+wise	I-director.name--NN
+directed	O--VVD
+
+what	O--WP
+movies	O--NNS
+have	O--VHP
+robert	B-director.name--JJ
+wise	I-director.name--NN
+directed	O--VVD
+
+where	O--WRB
+can	O--MD
+i	O--NNS
+find	O--VV
+a	O--DT
+list	O--NN
+of	O--IN
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+chris	B-producer.name--NN
+nolan	I-producer.name--NN
+
+what	O--WP
+movies	O--NNS
+has	O--VHZ
+brad	B-actor.name--NN
+pitt	I-actor.name--NN
+been	O--VBN
+in	O--IN
+
+what	O--WP
+are	O--VBP
+the	O--DT
+movies	O--NNS
+brad	B-actor.name--NN
+pitt	I-actor.name--NN
+had	O--VHD
+been	O--VBN
+in	O--IN
+
+what	O--WP
+are	O--VBP
+some	O--DT
+movies	O--NNS
+with	O--IN
+brad	B-actor.name--NN
+pitt	I-actor.name--NN
+
+find	O--VV
+an	O--DT
+r	B-rating.name--NN
+rated	O--VVN
+movie	O--NN
+
+show	O--VV
+me	O--PP
+r	B-rating.name--NN
+rated	O--VVN
+movies	O--NNS
+
+give	O--VV
+me	O--PP
+a	O--DT
+list	O--NN
+of	O--IN
+r	B-rating.name--NN
+rated	O--VVN
+movies	O--NNS
+
+look	O--VV
+up	O--RB
+r	B-rating.name--SYM
+rated	O--VVN
+movies	O--NNS
+
+i	O--NNS
+want	O--VVP
+only	O--RB
+r	B-rating.name--SYM
+rated	O--VVN
+movies	O--NNS
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+a	O--DT
+list	O--NN
+of	O--IN
+rated	O--VVN
+r	B-rating.name--NN
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+only	O--JJ
+movies	O--NNS
+with	O--IN
+a	O--DT
+rating	O--NN
+of	O--IN
+r	B-rating.name--NN
+
+please	O--UH
+look	O--VV
+for	O--IN
+movies	O--NNS
+with	O--IN
+an	O--DT
+r	B-rating.name--NN
+rating	O--NN
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+rated	O--VVN
+r	B-rating.name--NN
+
+look	O--NN
+for	O--IN
+movies	O--NNS
+with	O--IN
+an	O--DT
+r	B-rating.name--NN
+rating	O--NN
+
+give	O--VV
+me	O--PP
+a	O--DT
+list	O--NN
+of	O--IN
+all	O--DT
+movies	O--NNS
+that	O--WDT
+are	O--VBP
+rated	O--VVN
+r	B-rating.name--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+watch	O--VV
+movies	O--NNS
+from	O--IN
+norway	B-country.name--NN
+
+can	O--MD
+i	O--NP
+have	O--VHP
+a	O--DT
+list	O--NN
+of	O--IN
+spanish	B-movie.language--JJ
+speaking	O--NN
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+made	O--VVN
+in	O--IN
+mexico	B-country.name--NN
+
+show	O--VV
+me	O--PP
+the	O--DT
+movie	O--NN
+pot	B-movie.name--NN
+zombies	I-movie.name--NNS
+
+what	O--WP
+movies	O--NNS
+have	O--VHP
+zombies	B-movie.subject--NNS
+in	O--IN
+them	O--PP
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+about	O--IN
+zombies	B-movie.subject--NNS
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+about	O--IN
+zombies	B-movie.subject--NNS
+
+show	O--VV
+me	O--PP
+ones	O--NNS
+by	O--IN
+david	B-director.name--JJ
+fincher	I-director.name--NN
+
+show	O--VV
+ridley	B-director.name--NP
+scott	I-director.name--NP
+'s	O--POS
+filmography	O--NN
+
+find	O--VV
+ridley	B-director.name--NP
+scott	I-director.name--NP
+movies	O--NNS
+
+can	O--MD
+you	O--PP
+show	O--VV
+me	O--PP
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+ridley	B-director.name--NP
+scott	I-director.name--NP
+
+list	O--NN
+german	B-movie.language--NN
+movies	O--NNS
+
+german	B-movie.language--JJ
+movies	O--NNS
+
+find	O--VV
+action	B-movie.genre--NN
+films	O--NNS
+
+find	O--VV
+some	O--DT
+action	B-movie.genre--NN
+movies	O--NNS
+
+list	O--NN
+dredd	B-movie.name--NN
+movie	O--NN
+
+show	O--VV
+me	O--PP
+george	B-director.name--VV
+lucas	I-director.name--NNS
+movies	O--NNS
+
+find	O--VV
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+george	B-director.name--NN
+lucas	I-director.name--NNS
+
+produced	O--VVN
+by	O--IN
+
+please	O--UH
+find	O--VV
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+morgan	B-producer.name--NN
+freeman	I-producer.name--NN
+
+please	O--UH
+look	O--VV
+up	O--RP
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+morgan	B-producer.name--NN
+freeman	I-producer.name--NN
+
+search	O--NN
+for	O--IN
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+morgan	B-producer.name--NN
+freeman	I-producer.name--NN
+
+find	O--VV
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+morgan	B-producer.name--NN
+freeman	I-producer.name--NN
+
+look	O--VV
+up	O--RP
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+morgan	B-producer.name--NN
+freeman	I-producer.name--NN
+
+what	O--WP
+movies	O--NNS
+has	O--VHZ
+meryl	B-actor.name--NN
+streep	I-actor.name--NNS
+starred	O--VVN
+in	O--IN
+
+show	O--VV
+me	O--PP
+the	O--DT
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+the	O--DT
+director	O--NN
+of	O--IN
+this	O--DT
+movie	O--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+movies	O--NNS
+made	O--VVN
+in	O--IN
+russia	B-country.name--NN
+
+look	O--VVP
+up	O--RB
+star	B-movie.name--VV
+wars	I-movie.name--NNS
+four	I-movie.name--CD
+movie	O--NN
+
+display	O--VV
+all	O--DT
+details	O--NNS
+about	O--IN
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+-	I-movie.name--:
+a	I-movie.name--DT
+new	I-movie.name--JJ
+hope	I-movie.name--NN
+movie	O--NN
+
+get	O--VV
+all	O--DT
+details	O--NNS
+about	O--IN
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+-	I-movie.name--:
+a	I-movie.name--DT
+new	I-movie.name--JJ
+hope	I-movie.name--NN
+movie	O--NN
+
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+episode	I-movie.name--NN
+four	I-movie.name--CD
+
+i	O--NNS
+want	O--VVP
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+four	I-movie.name--CD
+main	O--JJ
+page	O--NN
+
+search	O--NN
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+four	I-movie.name--CD
+
+find	O--VV
+me	O--PP
+tons	O--NNS
+of	O--IN
+info	O--NN
+related	O--VVN
+to	O--TO
+star	B-movie.name--VV
+wars	I-movie.name--NNS
+four	I-movie.name--CD
+
+get	O--VV
+details	O--NNS
+of	O--IN
+in	B-movie.name--IN
+july	I-movie.name--JJ
+movie	O--NN
+
+find	O--VV
+details	O--NNS
+of	O--IN
+in	B-movie.name--IN
+july	I-movie.name--JJ
+movie	O--NN
+
+show	O--NN
+details	O--NNS
+of	O--IN
+in	B-movie.name--IN
+july	I-movie.name--JJ
+movie	O--NN
+
+tell	O--VV
+me	O--PP
+about	O--RB
+in	B-movie.name--IN
+july	I-movie.name--JJ
+movie	O--NN
+
+look	O--VV
+up	O--RP
+the	O--DT
+movie	O--NN
+in	B-movie.name--IN
+july	I-movie.name--RB
+
+display	O--NN
+information	O--NN
+for	O--IN
+the	O--DT
+movie	O--NN
+title	O--NN
+in	B-movie.name--IN
+july	I-movie.name--RB
+
+movie	O--NN
+in	B-movie.name--IN
+july	I-movie.name--JJ
+data	O--NNS
+
+where	O--WRB
+can	O--MD
+i	O--NNS
+find	O--VV
+the	O--DT
+movie	O--NN
+aankhen	B-movie.name--NN
+in	O--IN
+hindi	B-movie.language--NN
+
+display	O--NN
+julia	B-actor.name--NN
+roberts	I-actor.name--NNS
+films	O--NNS
+
+list	O--VV
+the	O--DT
+movies	O--NNS
+that	O--WDT
+have	O--VHP
+the	O--DT
+actress	O--NN
+angelina	B-actor.name--NN
+jolie	I-actor.name--NN
+
+dustin	B-actor.name--NN
+hoffman	I-actor.name--NN
+movies	O--NNS
+
+what	O--WP
+movies	O--NNS
+did	O--VVD
+david	B-director.name--JJ
+ayer	I-director.name--NN
+direct	O--JJ
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+view	O--VV
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+clint	B-producer.name--NN
+eastwood	I-producer.name--NN
+
+list	O--VV
+all	O--DT
+movies	O--NNS
+about	O--IN
+horses	B-movie.subject--NNS
+
+find	O--VV
+all	O--DT
+johnny	B-actor.name--NN
+depp	I-actor.name--NN
+movies	O--NNS
+
+search	O--NN
+by	O--IN
+director	O--NN
+
+search	O--NN
+by	O--IN
+director	O--NN
+
+is	O--VBZ
+there	O--RB
+any	O--DT
+upcoming	O--JJ
+movies	O--NNS
+from	O--IN
+warner	B-producer.name--NN
+brothers	I-producer.name--NNS
+
+bring	O--VV
+up	O--RP
+movies	O--NNS
+with	O--IN
+ice	B-movie.subject--NN
+skating	I-movie.subject--VVG
+in	O--IN
+it	O--PP
+
+find	O--VV
+newly	O--RB
+released	O--VVN
+comedies	B-movie.genre--NNS
+from	O--IN
+england	B-country.name--NN
+
+i	O--NP
+need	O--NN
+info	O--NN
+on	O--IN
+house	B-movie.name--NN
+at	I-movie.name--IN
+the	I-movie.name--DT
+end	I-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+street	I-movie.name--NN
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+houses	B-movie.name--NNS
+at	I-movie.name--IN
+the	I-movie.name--DT
+end	I-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+street	I-movie.name--NN
+about	O--RB
+
+give	O--VV
+me	O--PP
+more	O--JJR
+facts	O--NNS
+about	O--IN
+the	O--DT
+movie	O--NN
+house	B-movie.name--NN
+at	I-movie.name--IN
+the	I-movie.name--DT
+end	I-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+street	I-movie.name--NN
+in	O--IN
+detail	O--NN
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+know	O--VV
+in	O--IN
+detail	O--NN
+about	O--IN
+the	O--DT
+movie	O--NN
+house	B-movie.name--NN
+at	I-movie.name--IN
+the	I-movie.name--DT
+end	I-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+street	I-movie.name--NN
+
+display	O--NN
+movie	O--NN
+information	O--NN
+for	O--IN
+the	O--DT
+film	O--NN
+house	B-movie.name--NN
+at	I-movie.name--IN
+the	I-movie.name--DT
+end	I-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+street	I-movie.name--NN
+
+films	O--NNS
+with	O--IN
+chinese	B-movie.language--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+watch	O--VV
+a	O--DT
+movie	O--NN
+in	O--IN
+chinese	B-movie.language--NN
+
+find	O--VV
+movies	O--NNS
+produced	O--VVN
+and	O--CC
+directed	O--VVN
+by	O--IN
+tyler	B-producer.name--NN
+perry	I-producer.name--NN
+
+tom	B-actor.name--NN
+cruise	I-actor.name--NN
+movies	O--NNS
+please	O--VVP
+
+i	O--NNS
+want	O--VVP
+tom	B-actor.name--NN
+cruise	I-actor.name--NN
+movies	O--NNS
+please	O--VVP
+
+which	O--WDT
+movies	O--NNS
+star	O--VVP
+tom	B-actor.name--NN
+cruise	I-actor.name--NN
+
+which	O--WDT
+movies	O--NNS
+do	O--VVP
+tom	B-actor.name--NN
+cruise	I-actor.name--NN
+play	O--VVP
+in	O--IN
+
+find	O--VV
+end	B-movie.name--NN
+of	I-movie.name--IN
+watch	I-movie.name--NN
+
+search	O--NN
+by	O--IN
+genre	O--NN
+
+looking	O--VVG
+for	O--IN
+movies	O--NNS
+of	O--IN
+yash	B-director.name--NN
+chopra	I-director.name--NN
+
+find	O--VV
+me	O--PP
+information	O--NN
+about	O--IN
+the	B-movie.name--DT
+campaign	I-movie.name--NN
+movie	O--NN
+
+information	O--NN
+for	O--IN
+movie	O--NN
+the	B-movie.name--DT
+campaign	I-movie.name--NN
+
+show	O--VV
+me	O--PP
+info	O--NN
+on	O--IN
+the	O--DT
+movie	O--NN
+the	B-movie.name--DT
+campaign	I-movie.name--NN
+please	O--RB
+
+i	O--NNS
+need	O--VVP
+to	O--TO
+see	O--VV
+all	O--PDT
+the	O--DT
+details	O--NNS
+about	O--IN
+the	O--DT
+movie	O--NN
+the	B-movie.name--DT
+campaign	I-movie.name--NN
+
+sort	O--VV
+all	O--DT
+pg	B-rating.name--NN
+movies	O--NNS
+
+pg	B-rating.name--NN
+rated	O--VVD
+movies	O--NNS
+
+access	O--VV
+a	O--DT
+list	O--NN
+of	O--IN
+pg	B-rating.name--NN
+movies	O--NNS
+please	O--VVP
+
+give	O--VV
+me	O--PP
+a	O--DT
+list	O--NN
+of	O--IN
+pg	B-rating.name--NN
+movies	O--NNS
+
+can	O--MD
+you	O--PP
+find	O--VV
+me	O--PP
+a	O--DT
+list	O--NN
+of	O--IN
+pg	B-rating.name--NN
+rated	O--VVN
+movies	O--NNS
+to	O--TO
+watch	O--VV
+
+show	O--VV
+me	O--PP
+a	O--DT
+list	O--NN
+of	O--IN
+pg	B-rating.name--NN
+rated	O--VVN
+movies	O--NNS
+
+find	O--VV
+movies	O--NNS
+with	O--IN
+a	O--DT
+pg	B-rating.name--NN
+rating	O--NN
+
+what	O--WP
+movies	O--NNS
+are	O--VBP
+pg	B-rating.name--JJ
+
+movies	O--NNS
+by	O--IN
+alfred	B-director.name--NN
+hitchcock	I-director.name--NN
+
+what	O--WP
+movies	O--NNS
+did	O--VVD
+alfred	B-director.name--NN
+hitchcock	I-director.name--NN
+make	O--VV
+
+watch	O--VV
+hitchcook	B-director.name--NN
+movies	O--NNS
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+any	O--DT
+current	O--JJ
+movies	O--NNS
+starring	O--VVG
+tom	B-actor.name--NN
+hanks	I-actor.name--NNS
+
+i	O--NNS
+want	O--VVP
+a	O--DT
+list	O--NN
+of	O--IN
+recent	O--JJ
+movies	O--NNS
+rated	O--VVN
+pg	B-rating.name--NN
+
+give	O--VV
+me	O--PP
+a	O--DT
+list	O--NN
+of	O--IN
+recent	O--JJ
+movies	O--NNS
+rated	O--VVN
+pg	B-rating.name--NN
+
+ray	B-producer.name--NN
+stark	I-producer.name--RB
+produced	O--VVD
+what	O--WP
+other	O--JJ
+movies	O--NNS
+
+what	O--WP
+is	O--VBZ
+spielberg	B-producer.name--NP
+'s	O--POS
+latest	O--JJS
+movie	O--NN
+
+please	O--UH
+find	O--VV
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+tom	B-director.name--NN
+hanks	I-director.name--NNS
+
+are	O--VBP
+there	O--RB
+any	O--DT
+recent	O--JJ
+movies	O--NNS
+that	O--WDT
+are	O--VBP
+polish	B-movie.language--NN
+speaking	O--NN
+
+what	O--WP
+movies	O--NNS
+has	O--VHZ
+tom	B-actor.name--NN
+cruise	I-actor.name--NN
+been	O--VBN
+in	O--IN
+recently	O--RB
+
+search	O--NN
+for	O--IN
+new	O--JJ
+movies	O--NNS
+
+search	O--NN
+for	O--IN
+in	B-movie.name--IN
+july	I-movie.name--NN
+
+watch	O--VV
+in	B-movie.name--IN
+july	I-movie.name--RB
+online	O--JJ
+
+search	O--NN
+for	O--IN
+information	O--NN
+about	O--IN
+lionsgate	B-producer.name--NNS
+
+lionsgate	B-producer.name--JJ
+info	O--NN
+
+find	O--VV
+information	O--NN
+about	O--IN
+paramount	B-producer.name--JJ
+studios	I-producer.name--NNS
+
+who	O--WP
+is	O--VBZ
+ray	B-person.name--NN
+stark	I-person.name--JJ
+
+find	O--VV
+information	O--NN
+on	O--IN
+charles	B-person.name--NNS
+vidor	I-person.name--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+look	O--VV
+up	O--RP
+information	O--NN
+about	O--IN
+tom	B-person.name--NN
+cruise	I-person.name--NN
+
+can	O--MD
+you	O--PP
+please	O--VV
+search	O--NN
+details	O--NNS
+about	O--RB
+will	B-person.name--MD
+ferrell	I-person.name--VV
+
+will	B-person.name--MD
+ferrell	I-person.name--NP
+biography	O--NN
+
+show	O--NN
+will	B-person.name--MD
+ferrell	I-person.name--VV
+biography	O--NN
+
+show	O--VV
+me	O--PP
+a	O--DT
+complete	O--JJ
+biography	O--NN
+of	O--IN
+will	B-person.name--NN
+ferrell	I-person.name--NN
+
+show	O--VV
+me	O--PP
+information	O--NN
+on	O--IN
+will	B-person.name--NN
+ferrell	I-person.name--NN
+
+show	O--VV
+me	O--PP
+will	B-person.name--MD
+ferrell	I-person.name--NN
+'s	O--POS
+bio	O--NN
+
+get	O--VV
+info	O--NN
+on	O--IN
+kristen	B-person.name--NP
+stewart	I-person.name--NN
+
+does	O--VVZ
+kristen	B-person.name--NP
+stewart	I-person.name--NP
+have	O--VHP
+a	O--DT
+personal	O--JJ
+page	O--NN
+
+where	O--WRB
+can	O--MD
+i	O--NNS
+find	O--VV
+information	O--NN
+about	O--IN
+kristen	B-person.name--NP
+stewart	I-person.name--NN
+
+jennifer	B-person.name--NN
+aniston	I-person.name--NN
+bio	O--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+spielberg	B-person.name--NP
+'s	O--POS
+main	O--JJ
+page	O--NN
+
+steven	B-person.name--JJ
+spielberg	I-person.name--NN
+summary	O--NN
+
+about	O--IN
+steven	B-person.name--JJ
+spielberg	I-person.name--NN
+
+find	O--VV
+me	O--PP
+bio	O--NN
+details	O--NNS
+for	O--IN
+steven	B-person.name--JJ
+spielberg	I-person.name--NN
+
+bio	O--NN
+for	O--IN
+steven	B-person.name--JJ
+spielberg	I-person.name--NN
+
+show	O--VV
+me	O--PP
+alfred	B-person.name--NN
+hitchcock	I-person.name--NN
+
+i	O--NNS
+want	O--VVP
+more	O--JJR
+information	O--NN
+about	O--IN
+alfred	B-person.name--NP
+hitchock	I-person.name--NP
+'s	O--POS
+biography	O--NN
+
+all	O--DT
+info	O--NN
+hitchcock	B-person.name--NN
+
+find	O--VV
+the	O--DT
+name	O--NN
+of	O--IN
+the	O--DT
+producer	O--NN
+of	O--IN
+avatar	B-movie.name--NN
+
+producer	O--NN
+hitch	B-movie.name--NN
+
+who	O--WP
+produces	O--VVZ
+hitch	B-movie.name--NN
+
+production	O--NN
+company	O--NN
+for	O--IN
+transformers	B-movie.name--NNS
+
+what	O--WP
+company	O--NN
+made	O--VVD
+et	B-movie.name--FW
+
+what	O--WP
+was	O--VBD
+the	O--DT
+production	O--NN
+company	O--NN
+for	O--IN
+et	B-movie.name--FW
+
+who	O--WP
+produces	O--VVZ
+cars	B-movie.name--NNS
+
+can	O--MD
+you	O--PP
+find	O--VV
+who	O--WP
+produced	O--VVD
+cars	B-movie.name--NNS
+
+production	O--NN
+company	O--NN
+for	O--IN
+devil	B-movie.name--NN
+
+who	O--WP
+produced	O--VVD
+the	O--DT
+movie	O--NN
+steel	B-movie.name--NN
+magnolias	I-movie.name--NNS
+
+who	O--WP
+produced	O--VVD
+avatar	B-movie.name--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+know	O--VV
+the	O--DT
+producer	O--NN
+of	O--IN
+avatar	B-movie.name--NN
+
+who	O--WP
+produced	O--VVD
+avatar	B-movie.name--NN
+
+who	O--WP
+produced	O--VVD
+avatar	B-movie.name--NN
+
+avatar	B-movie.name--NN
+producer	O--NN
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+know	O--VV
+who	O--WP
+produced	O--VVD
+the	O--DT
+movie	O--NN
+avatar	B-movie.name--NN
+
+who	O--WP
+produced	O--VVD
+the	O--DT
+movie	O--NN
+avatar	B-movie.name--NN
+
+who	O--WP
+are	O--VBP
+the	O--DT
+producers	O--NNS
+for	O--IN
+the	O--DT
+movie	O--NN
+avatar	B-movie.name--NN
+
+what	O--WP
+is	O--VBZ
+grease	B-movie.name--NN
+'s	O--POS
+producer	O--NN
+
+who	O--WP
+produced	O--VVD
+grease	B-movie.name--NN
+
+who	O--WP
+produced	O--VVD
+the	O--DT
+movie	O--NN
+my	B-movie.name--PP$
+big	I-movie.name--JJ
+fat	I-movie.name--JJ
+greek	I-movie.name--NN
+wedding	I-movie.name--NN
+
+who	O--WP
+produced	O--VVD
+pretty	B-movie.name--JJ
+woman	I-movie.name--NN
+
+tell	O--VV
+me	O--PP
+the	O--DT
+producer	O--NN
+for	O--IN
+the	B-movie.name--DT
+godfather	I-movie.name--NN
+
+the	B-movie.name--DT
+godfather	I-movie.name--NN
+was	O--VBD
+produced	O--VVN
+by	O--IN
+
+who	O--WP
+produced	O--VVD
+the	O--DT
+movie	O--NN
+clue	B-movie.name--NN
+
+who	O--WP
+produced	O--VVD
+hotel	B-movie.name--NN
+rwanda	I-movie.name--NN
+
+who	O--WP
+produced	O--VVD
+marley	B-movie.name--NN
+and	I-movie.name--CC
+me	I-movie.name--PP
+
+who	O--WP
+produced	O--VVD
+despicable	B-movie.name--JJ
+me	I-movie.name--PP
+
+who	O--WP
+is	O--VBZ
+the	O--DT
+company	O--NN
+that	O--WDT
+produced	O--VVD
+the	O--DT
+movie	O--NN
+inception	B-movie.name--NN
+
+what	O--WP
+company	O--NN
+developed	O--VVD
+the	O--DT
+movie	O--NN
+inception	B-movie.name--NN
+
+find	O--VV
+producer	O--NN
+of	O--IN
+the	B-movie.name--DT
+great	I-movie.name--JJ
+debaters	I-movie.name--NNS
+
+who	O--WP
+produced	O--VVD
+inception	B-movie.name--NN
+
+provide	O--VV
+the	O--DT
+name	O--NN
+of	O--IN
+the	O--DT
+company	O--NN
+that	O--WDT
+produced	O--VVD
+sparkle	B-movie.name--NN
+
+i	O--NNS
+need	O--VVP
+to	O--TO
+know	O--VV
+the	O--DT
+company	O--NN
+that	O--WDT
+produced	O--VVD
+sparkle	B-movie.name--NN
+
+find	O--VV
+the	O--DT
+producer	O--NN
+of	O--IN
+look	B-movie.name--NN
+who	I-movie.name--WP
+'s	I-movie.name--VBZ
+talking	I-movie.name--VVG
+
+who	O--WP
+produced	O--VVD
+harlem	B-movie.name--NN
+nights	I-movie.name--NNS
+
+find	O--VV
+the	O--DT
+producer	O--NN
+of	O--IN
+step	B-movie.name--NN
+up	I-movie.name--RB
+
+please	O--UH
+find	O--VV
+the	O--DT
+producer	O--NN
+of	O--IN
+freedom	B-movie.name--NN
+writers	I-movie.name--NNS
+
+look	O--VV
+for	O--IN
+the	O--DT
+producer	O--NN
+of	O--IN
+freedom	B-movie.name--NN
+writers	I-movie.name--NNS
+
+show	O--VV
+me	O--PP
+movie	O--NN
+rating	O--NN
+
+how	O--WRB
+much	O--JJ
+revenue	O--NN
+did	O--VVD
+pretty	B-movie.name--RB
+woman	I-movie.name--NN
+make	O--VV
+
+earnings	O--NNS
+for	O--IN
+pretty	B-movie.name--JJ
+woman	I-movie.name--NN
+
+what	O--WP
+was	O--VBD
+the	O--DT
+revenue	O--NN
+of	O--IN
+pretty	B-movie.name--JJ
+woman	I-movie.name--NN
+
+how	O--WRB
+much	O--RB
+did	O--VVD
+pretty	B-movie.name--RB
+woman	I-movie.name--NN
+make	O--VV
+
+what	O--WP
+was	O--VBD
+the	O--DT
+gross	O--JJ
+revenue	O--NN
+for	O--IN
+the	B-movie.name--DT
+avengers	I-movie.name--NNS
+
+how	O--WRB
+much	O--RB
+did	O--VVD
+the	B-movie.name--DT
+avengers	I-movie.name--NNS
+make	O--VVP
+
+revenue	O--NN
+for	O--IN
+the	B-movie.name--DT
+avengers	I-movie.name--NNS
+
+how	O--WRB
+much	O--RB
+did	O--VVD
+the	B-movie.name--DT
+dark	I-movie.name--JJ
+night	I-movie.name--NN
+generate	O--VV
+in	O--IN
+revenues	O--NNS
+
+find	O--VV
+revenue	O--NN
+totals	O--NNS
+for	O--IN
+jurassic	B-movie.name--JJ
+park	I-movie.name--NN
+
+revenue	O--NN
+for	O--IN
+independence	B-movie.name--NN
+day	I-movie.name--NN
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+new	O--JJ
+will	B-actor.name--NN
+ferrell	I-actor.name--NN
+movie	O--NN
+about	O--RB
+
+who	O--WP
+played	O--VVD
+the	O--DT
+voice	O--NN
+of	O--IN
+nemo	B-character.name--NN
+in	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+who	O--WP
+played	O--VVD
+richie	B-character.name--NN
+cunningham	I-character.name--NN
+in	O--IN
+happy	B-movie.name--JJ
+days	I-movie.name--NNS
+
+who	O--WP
+stars	O--VVZ
+in	O--IN
+house	B-movie.name--NN
+at	I-movie.name--IN
+the	I-movie.name--DT
+end	I-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+street	I-movie.name--NN
+
+show	O--VV
+me	O--PP
+the	O--DT
+cast	O--NN
+for	O--IN
+the	O--DT
+house	B-movie.name--NN
+at	I-movie.name--IN
+the	I-movie.name--DT
+end	I-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+street	I-movie.name--NN
+
+cast	O--NN
+and	O--CC
+crew	O--NN
+of	O--IN
+house	B-movie.name--NN
+at	I-movie.name--IN
+the	I-movie.name--DT
+end	I-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+street	I-movie.name--NN
+
+ethel	B-character.name--NN
+actress	O--NN
+from	O--IN
+i	B-movie.name--NP
+love	I-movie.name--NN
+lucy	I-movie.name--NN
+
+actress	O--NN
+who	O--WP
+played	O--VVD
+ethel	B-character.name--NN
+on	O--IN
+i	B-movie.name--NP
+love	I-movie.name--NN
+lucy	I-movie.name--NN
+
+who	O--WP
+are	O--VBP
+the	O--DT
+cast	O--NN
+members	O--NNS
+in	O--IN
+lord	B-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+rings	I-movie.name--VVZ
+the	I-movie.name--DT
+two	I-movie.name--CD
+towers	I-movie.name--NNS
+
+who	O--WP
+played	O--VVD
+hawkeye	B-character.name--NN
+in	O--IN
+mash	B-movie.name--NN
+
+who	O--WP
+played	O--VVD
+mother	B-character.name--NN
+in	O--IN
+tarkovsky	B-director.name--NP
+'s	O--POS
+mirror	B-movie.name--NN
+
+show	O--VV
+me	O--PP
+the	O--DT
+actor	O--NN
+of	O--IN
+the	O--DT
+movie	O--NN
+muthyala	B-movie.name--NN
+muggu	I-movie.name--NN
+
+who	O--WP
+are	O--VBP
+the	O--DT
+droids	B-character.name--NNS
+in	O--IN
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+episode	I-movie.name--NN
+four	I-movie.name--CD
+
+who	O--WP
+was	O--VBD
+that	O--DT
+guy	O--NN
+again	O--RB
+who	O--WP
+was	O--VBD
+in	O--IN
+the	B-movie.name--DT
+avengers	I-movie.name--NNS
+
+which	O--WDT
+actor	O--NN
+played	O--VVD
+frodo	B-character.name--NN
+in	O--IN
+lord	B-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+rings	I-movie.name--NNS
+
+find	O--VV
+the	O--DT
+name	O--NN
+of	O--IN
+the	O--DT
+actress	O--NN
+who	O--WP
+played	O--VVD
+mother	B-character.name--NN
+in	O--IN
+mirror	B-movie.name--NN
+by	O--IN
+andrey	B-director.name--NN
+tarkovsky	I-director.name--NN
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+name	O--NN
+of	O--IN
+the	O--DT
+actress	O--NN
+who	O--WP
+played	O--VVD
+mother	B-character.name--NN
+in	O--IN
+tarkovsky	B-director.name--NP
+'s	O--POS
+mirror	B-movie.name--NN
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+name	O--NN
+of	O--IN
+the	O--DT
+actor	O--NN
+who	O--WP
+played	O--VVD
+todd	B-character.name--NNS
+in	O--IN
+the	O--DT
+tv	O--NN
+show	O--VVP
+one	B-movie.name--CD
+life	I-movie.name--NN
+to	I-movie.name--TO
+live	I-movie.name--VV
+
+give	O--VV
+me	O--PP
+the	O--DT
+name	O--NN
+of	O--IN
+the	O--DT
+main	O--JJ
+actress	O--NN
+in	O--IN
+platoon	B-movie.name--NN
+
+what	O--WP
+'s	O--VBZ
+the	O--DT
+name	O--NN
+of	O--IN
+the	O--DT
+mom	B-character.name--NN
+on	O--IN
+seinfeld	B-movie.name--NP
+
+name	O--VV
+the	O--DT
+co-star	O--NN
+in	O--IN
+shoot	B-movie.name--NN
+to	I-movie.name--TO
+kill	I-movie.name--VV
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+name	O--NN
+of	O--IN
+the	O--DT
+actor	O--NN
+who	O--WP
+played	O--VVD
+atticus	B-character.name--NN
+finch	I-character.name--NN
+in	O--IN
+to	B-movie.name--TO
+kill	I-movie.name--VV
+a	I-movie.name--DT
+mockingbird	I-movie.name--NN
+
+show	O--VV
+me	O--PP
+the	O--DT
+name	O--NN
+of	O--IN
+the	O--DT
+guy	O--NN
+who	O--WP
+was	O--VBD
+the	O--DT
+father	B-character.name--NN
+and	I-character.name--CC
+a	I-character.name--DT
+lawyer	I-character.name--NN
+in	O--IN
+to	B-movie.name--TO
+kill	I-movie.name--VV
+a	I-movie.name--DT
+mockingbird	I-movie.name--NN
+
+please	O--UH
+provide	O--VV
+the	O--DT
+cost	O--NN
+for	O--IN
+producing	O--VVG
+the	O--DT
+deer	B-movie.name--NN
+hunter	I-movie.name--NN
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+budget	O--NN
+for	O--IN
+epic	B-movie.name--NN
+
+search	O--NN
+budget	O--NN
+for	O--IN
+the	O--DT
+movie	O--NN
+epic	B-movie.name--NN
+
+what	O--WP
+was	O--VBD
+the	O--DT
+budget	O--NN
+for	O--IN
+fire	B-movie.name--NN
+proof	I-movie.name--NN
+
+what	O--WP
+was	O--VBD
+the	O--DT
+budget	O--NN
+for	O--IN
+fly	B-movie.name--NN
+whele	I-movie.name--NN
+
+what	O--WP
+was	O--VBD
+the	O--DT
+budget	O--NN
+for	O--IN
+1st	O--JJ
+harry	B-movie.name--VVP
+potter	I-movie.name--NN
+movie	O--NN
+
+how	O--WRB
+much	O--RB
+was	O--VBD
+spent	O--VVN
+on	O--IN
+shooting	O--VVG
+the	O--DT
+last	O--JJ
+harry	B-movie.name--VV
+potter	I-movie.name--NN
+film	O--NN
+
+how	O--WRB
+much	O--RB
+does	O--VVZ
+it	O--PP
+cost	O--VVD
+to	O--TO
+produce	O--VV
+looper	B-movie.name--NN
+
+how	O--WRB
+much	O--RB
+did	O--VVD
+it	O--PP
+cost	O--VVD
+to	O--TO
+produce	O--VV
+looper	B-movie.name--NN
+
+how	O--WRB
+much	O--JJ
+money	O--NN
+was	O--VBD
+spent	O--VVN
+to	O--TO
+produce	O--VV
+looper	B-movie.name--NN
+
+how	O--WRB
+much	O--RB
+did	O--VVD
+men	B-movie.name--NNS
+in	I-movie.name--IN
+black	I-movie.name--JJ
+3	I-movie.name--CD
+cost	O--NN
+
+how	O--WRB
+much	O--RB
+was	O--VBD
+it	O--PP
+to	O--TO
+make	O--VV
+paranorman	B-movie.name--NN
+
+show	O--VV
+me	O--PP
+the	O--DT
+budget	O--NN
+to	O--TO
+rebel	B-movie.name--JJ
+movie	O--NN
+
+show	O--VV
+me	O--PP
+the	O--DT
+budget	O--NN
+for	O--IN
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+2	I-movie.name--CD
+
+how	O--WRB
+much	O--RB
+did	O--VVD
+it	O--PP
+cost	O--VVD
+to	O--TO
+create	O--VV
+the	B-movie.name--DT
+boardwalk	I-movie.name--NN
+empire	I-movie.name--NN
+
+show	O--VV
+me	O--PP
+the	O--DT
+budget	O--NN
+for	O--IN
+expendables	B-movie.name--NNS
+1	I-movie.name--CD
+
+what	O--WP
+was	O--VBD
+the	O--DT
+budget	O--NN
+for	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+in	O--IN
+3d	O--JJ
+
+liongate	B-producer.name--NNS
+
+which	O--WDT
+country	O--NN
+made	O--VVD
+inchochine	B-movie.name--NN
+
+what	O--WP
+country	O--NN
+filed	O--VVD
+les	B-movie.name--FW
+mes	I-movie.name--FW
+
+what	O--WP
+country	O--NN
+is	O--VBZ
+les	B-movie.name--FW
+mes	I-movie.name--FW
+from	O--IN
+
+where	O--WRB
+was	O--VBD
+the	O--DT
+milk	B-movie.name--NN
+of	I-movie.name--IN
+sorrow	I-movie.name--NN
+made	O--VVD
+
+what	O--WP
+country	O--NN
+is	O--VBZ
+shawshank	B-movie.name--NN
+redemption	I-movie.name--NN
+
+what	O--WP
+country	O--NN
+does	O--VVZ
+the	O--DT
+movie	O--NN
+thoda	B-movie.name--NN
+pyaar	I-movie.name--NN
+thoda	I-movie.name--NN
+magic	I-movie.name--NN
+comes	O--VVZ
+from	O--IN
+
+tell	O--VV
+me	O--PP
+where	O--WRB
+the	O--DT
+white	B-movie.name--JJ
+ribbon	I-movie.name--NN
+came	O--VVD
+from	O--IN
+
+when	O--WRB
+was	O--VBD
+the	O--DT
+movie	O--NN
+barfi	B-movie.name--NN
+!	I-movie.name--SENT
+released	O--VVN
+
+what	O--WP
+are	O--VBP
+the	O--DT
+dates	O--NNS
+for	O--IN
+the	O--DT
+movie	O--NN
+barfi	B-movie.name--NN
+!	I-movie.name--SENT
+
+release	O--NN
+date	O--NN
+of	O--IN
+the	O--DT
+new	O--JJ
+bugs	B-movie.name--NNS
+bunny	I-movie.name--NN
+film	O--NN
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+release	O--NN
+date	O--NN
+of	O--IN
+evil	B-movie.name--NN
+goes	I-movie.name--VVZ
+global	I-movie.name--JJ
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+release	O--NN
+date	O--NN
+for	O--IN
+jaws	B-movie.name--NNS
+17	I-movie.name--CD
+in	O--IN
+the	O--DT
+theaters	O--NNS
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+release	O--NN
+date	O--NN
+for	O--IN
+jurassic	B-movie.name--JJ
+park	I-movie.name--NN
+4	I-movie.name--CD
+
+list	O--NN
+release	O--NN
+dates	O--NNS
+for	O--IN
+the	O--DT
+jurassic	B-movie.name--JJ
+park	I-movie.name--NN
+movies	O--NNS
+
+when	O--WRB
+will	O--MD
+the	O--DT
+movie	O--NN
+omg	B-movie.name--JJ
+oh	I-movie.name--UH
+my	I-movie.name--PP$
+god	I-movie.name--NN
+be	O--VB
+released	O--VVN
+
+when	O--WRB
+was	O--VBD
+the	O--DT
+lord	B-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+rings	I-movie.name--NNS
+movie	O--NN
+released	O--VVD
+
+whats	O--NNS
+paranormal	B-movie.name--JJ
+activities	I-movie.name--NNS
+release	O--NN
+date	O--NN
+
+when	O--WRB
+will	O--MD
+robocop	B-movie.name--RB
+come	O--VV
+out	O--RP
+
+when	O--WRB
+was	O--VBD
+suckerpunch	B-movie.name--NN
+be	O--VB
+released	O--VVN
+
+when	O--WRB
+was	O--VBD
+the	B-movie.name--DT
+sound	I-movie.name--NN
+of	I-movie.name--IN
+music	I-movie.name--NN
+released	O--VVN
+
+when	O--WRB
+will	O--MD
+twilight	B-movie.name--NN
+breaking	I-movie.name--VVG
+dawn	I-movie.name--NN
+part	I-movie.name--NN
+2	I-movie.name--CD
+be	O--VB
+released	O--VVN
+
+who	O--WP
+directed	O--VVD
+ai	B-movie.name--VVP
+
+find	O--VV
+the	O--DT
+director	O--NN
+of	O--IN
+downton	B-movie.name--NN
+abbey	I-movie.name--NN
+
+who	O--WP
+directed	O--VVD
+good	B-movie.name--JJ
+bad	I-movie.name--JJ
+and	I-movie.name--CC
+ugly	I-movie.name--JJ
+
+i	O--NP
+can	O--MD
+'t	O--NP
+remember	O--VV
+who	O--WP
+directed	O--VVD
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+
+find	O--VV
+the	O--DT
+director	O--NN
+of	O--IN
+to	B-movie.name--TO
+kill	I-movie.name--VV
+a	I-movie.name--DT
+mockingbird	I-movie.name--NN
+
+is	O--VBZ
+amelie	B-movie.name--NN
+in	O--IN
+a	O--DT
+different	O--JJ
+language	O--NN
+
+what	O--WP
+language	O--NN
+was	O--VBD
+amelie	B-movie.name--NN
+filmed	O--VVN
+in	O--IN
+
+what	O--WP
+language	O--NN
+is	O--VBZ
+the	O--DT
+full	B-movie.name--JJ
+monty	I-movie.name--NN
+in	O--IN
+
+what	O--WP
+is	O--VBZ
+ju	B-movie.name--NN
+on	I-movie.name--RB
+'s	O--POS
+original	O--JJ
+language	O--NN
+
+what	O--WP
+language	O--NN
+is	O--VBZ
+secrets	B-movie.name--NNS
+and	I-movie.name--CC
+lies	I-movie.name--VVZ
+in	O--IN
+
+give	O--VV
+me	O--PP
+names	O--NNS
+of	O--IN
+some	O--DT
+action	B-movie.genre--NN
+movies	O--NNS
+with	O--IN
+a	O--DT
+pg	B-rating.name--NN
+thirteen	I-rating.name--CD
+rating	O--NN
+
+show	O--VV
+all	O--DT
+comedy	B-movie.genre--NN
+musicals	B-movie.genre--NNS
+for	O--IN
+twenty	B-movie.release_date--CD
+twelve	I-movie.release_date--NN
+
+are	O--VBP
+there	O--RB
+any	O--DT
+documentaries	B-movie.genre--NNS
+on	O--IN
+classic	B-movie.subject--JJ
+cars	I-movie.subject--NNS
+
+show	O--VV
+all	O--DT
+dramas	B-movie.genre--NN
+produced	O--VVN
+in	O--IN
+2010	B-movie.release_date--CD
+
+find	O--VV
+some	O--DT
+mysteries	B-movie.genre--NNS
+
+search	O--NN
+romantic	B-movie.genre--JJ
+commedies	I-movie.genre--NNS
+
+sci-fi	B-movie.genre--NN
+
+show	O--VV
+me	O--PP
+westerns	B-movie.genre--NNS
+
+show	O--NN
+car	B-movie.subject--NN
+documentaries	B-movie.genre--NNS
+
+show	O--VV
+me	O--PP
+a	O--DT
+katie	B-actor.name--NP
+holmes	I-actor.name--NP
+flick	B-movie.type--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+videos	B-movie.type--NNS
+of	O--IN
+steven	B-director.name--JJ
+spielberg	I-director.name--NN
+
+videos	B-movie.type--NNS
+related	O--VVN
+to	O--TO
+steven	B-director.name--JJ
+spielberg	I-director.name--NN
+
+new	O--JJ
+released	O--VVN
+videos	B-movie.type--NNS
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+brazilian	B-country.name--NN
+movies	O--NNS
+
+show	O--VV
+all	O--DT
+canandian	B-country.name--JJ
+movies	O--NNS
+for	O--IN
+nineteen	B-movie.release_date--CD
+eighty	I-movie.release_date--CD
+
+what	O--WP
+movies	O--NNS
+were	O--VBD
+made	O--VVN
+in	O--IN
+ireland	B-country.name--NN
+this	B-movie.release_date--DT
+year	I-movie.release_date--NN
+
+find	O--VV
+philipino	B-country.name--NN
+movies	O--NNS
+in	O--IN
+english	B-movie.language--NN
+
+show	O--VV
+me	O--PP
+the	O--DT
+highest-grossing	O--JJ
+movies	O--NNS
+from	O--IN
+portugal	B-country.name--NN
+
+find	O--VV
+movies	O--NNS
+in	O--IN
+america	B-country.name--NN
+about	O--IN
+obama	B-movie.subject--NN
+
+i	O--NP
+'d	O--MD
+love	O--VV
+to	O--TO
+watch	O--VV
+an	O--DT
+albert	B-director.name--NN
+ruddy	I-director.name--JJ
+movie	O--NN
+
+what	O--WP
+other	O--JJ
+films	O--NNS
+has	O--VHZ
+arthur	B-director.name--NN
+ruddy	I-director.name--JJ
+done	O--VVN
+
+bring	O--VV
+up	O--RP
+all	O--DT
+movies	O--NNS
+brad	B-director.name--NN
+pitt	I-director.name--NN
+directed	O--VVD
+
+what	O--WP
+movies	O--NNS
+has	O--VHZ
+brad	B-director.name--NN
+pitt	I-director.name--NN
+directed	O--VVD
+
+movies	O--NNS
+by	O--IN
+david	B-director.name--JJ
+selsnic	I-director.name--NN
+
+did	O--VVD
+holly	B-director.name--NN
+hunter	I-director.name--NN
+direct	O--VV
+any	O--DT
+movies	O--NNS
+
+what	O--WP
+movies	O--NNS
+did	O--VVD
+joe	B-director.name--NN
+coen	I-director.name--NNS
+do	O--VVP
+
+movies	O--NNS
+by	O--IN
+john	B-director.name--NN
+paul	I-director.name--NNS
+as	O--IN
+a	O--DT
+director	O--NN
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+john	B-director.name--NN
+paul	I-director.name--NNS
+
+tom	B-director.name--NN
+cruise	I-director.name--NN
+has	O--VHZ
+directed	O--VVN
+what	O--WP
+movies	O--NNS
+
+please	O--UH
+list	O--VV
+all	O--DT
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+tom	B-director.name--NN
+cruise	I-director.name--NN
+
+wesley	B-director.name--NN
+snipes	I-director.name--NNS
+directed	O--VVD
+what	O--WP
+movie	O--NN
+
+find	O--VV
+action	B-movie.genre--NN
+movies	O--NNS
+with	O--IN
+john	B-actor.name--NN
+travolta	I-actor.name--NN
+
+show	O--VV
+all	O--DT
+animation	B-movie.genre--NN
+films	O--NNS
+for	O--IN
+twenty	B-movie.release_date--CD
+twelve	I-movie.release_date--NN
+
+animated	B-movie.genre--JJ
+pg	B-rating.name--NN
+thirteen	I-rating.name--CD
+movies	O--NNS
+
+physfi	B-movie.genre--NN
+movies	O--NNS
+
+i	O--NP
+like	O--IN
+sci-fi	B-movie.genre--NN
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+films	O--NNS
+released	O--VVN
+in	O--IN
+september	B-movie.release_date--NN
+
+show	O--VV
+all	O--DT
+movies	O--NNS
+released	O--VVN
+in	O--IN
+september	B-movie.release_date--NN
+
+look	O--VV
+up	O--RP
+all	O--DT
+movies	O--NNS
+coming	O--VVG
+in	O--IN
+september	B-movie.release_date--NN
+
+find	O--VV
+movies	O--NNS
+for	O--IN
+twenty	B-movie.release_date--CD
+ten	I-movie.release_date--CD
+
+most	O--RBS
+recent	O--JJ
+zombie	B-movie.subject--NN
+movies	O--NNS
+
+search	O--NN
+for	O--IN
+movies	O--NNS
+in	O--IN
+chinese	B-movie.language--NN
+
+find	O--VV
+me	O--PP
+movies	O--NNS
+that	O--WDT
+are	O--VBP
+in	O--IN
+chinese	B-movie.language--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+a	O--DT
+list	O--NN
+of	O--IN
+all	O--DT
+movies	O--NNS
+shown	O--VVN
+in	O--IN
+english	B-movie.language--NN
+
+find	O--VV
+movies	O--NNS
+in	O--IN
+farsi	B-movie.language--NNS
+
+send	O--VV
+me	O--PP
+movies	O--NNS
+that	O--WDT
+are	O--VBP
+in	O--IN
+french	B-movie.language--NN
+
+find	O--VV
+movies	O--NNS
+in	O--IN
+french	B-movie.language--NNS
+
+i	O--NP
+would	O--MD
+like	O--VV
+a	O--DT
+list	O--NN
+of	O--IN
+movies	O--NNS
+in	O--IN
+french	B-movie.language--NNS
+
+movies	O--NNS
+in	O--IN
+french	B-movie.language--NNS
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+find	O--VV
+movies	O--NNS
+using	O--VVG
+the	O--DT
+french	B-movie.language--JJ
+langauage	O--NN
+
+i	O--NNS
+want	O--VVP
+movies	O--NNS
+in	O--IN
+french	B-movie.language--NNS
+
+find	O--VV
+movies	O--NNS
+in	O--IN
+german	B-movie.language--NN
+before	O--IN
+2000	B-movie.release_date--CD
+
+give	O--VV
+me	O--PP
+some	O--DT
+movies	O--NNS
+which	O--WDT
+were	O--VBD
+filmed	O--VVN
+in	O--IN
+polish	B-movie.language--NN
+
+find	O--VV
+movies	O--NNS
+in	O--IN
+portugese	B-movie.language--NN
+
+show	O--VV
+all	O--DT
+movies	O--NNS
+in	O--IN
+spanish	B-movie.language--NN
+
+list	O--NN
+of	O--IN
+movies	O--NNS
+in	O--IN
+the	O--DT
+spanish	B-movie.language--JJ
+language	O--NN
+
+movies	O--NNS
+in	O--IN
+spanish	B-movie.language--NN
+
+i	O--NNS
+am	O--VBP
+searching	O--VVG
+for	O--IN
+movies	O--NNS
+in	O--IN
+spanish	B-movie.language--NN
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+look	O--VV
+for	O--IN
+movies	O--NNS
+in	O--IN
+spanish	B-movie.language--NN
+
+find	O--VV
+movies	O--NNS
+in	O--IN
+swahili	B-movie.language--NNS
+
+show	O--VV
+me	O--PP
+a	O--DT
+list	O--NN
+of	O--IN
+all	O--DT
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+alfred	B-producer.name--NNS
+ruddy	I-producer.name--JJ
+
+what	O--WP
+other	O--JJ
+movies	O--NNS
+charles	B-producer.name--NNS
+vidor	I-producer.name--NN
+produce	O--NN
+
+has	O--VHZ
+jennifer	B-producer.name--NN
+anniston	I-producer.name--NN
+produced	O--VVD
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+the	O--DT
+movies	O--NNS
+produced	O--VVN
+by	O--IN
+m	B-producer.name--NN
+s	I-producer.name--NN
+raju	I-producer.name--NN
+
+list	O--VV
+the	O--DT
+movies	O--NNS
+created	O--VVN
+by	O--IN
+7	B-producer.name--CD
+arts	I-producer.name--NNS
+
+lionsgate	B-producer.name--NN
+=	O--SYM
+i	O--FW
+would	O--MD
+like	O--VV
+to	O--TO
+get	O--VV
+a	O--DT
+list	O--NN
+of	O--IN
+your	O--PP$
+movies	O--NNS
+from	O--IN
+two	B-movie.release_date--CD
+thousand	I-movie.release_date--CD
+and	I-movie.release_date--CC
+nine	I-movie.release_date--CD
+to	I-movie.release_date--TO
+two	I-movie.release_date--CD
+thousand	I-movie.release_date--CD
+and	I-movie.release_date--CC
+twelve	I-movie.release_date--NN
+
+twentieth	B-producer.name--JJ
+century	I-producer.name--NN
+fox	I-producer.name--NN
+movies	O--NNS
+2012	B-movie.release_date--CD
+
+show	O--VV
+me	O--PP
+nc	B-rating.name--NN
+minus	I-rating.name--CC
+seventeen	I-rating.name--CD
+rated	O--VVN
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+with	O--IN
+not	B-rating.name--RB
+rated	I-rating.name--VVN
+rating	O--NN
+
+give	O--VV
+me	O--PP
+a	O--DT
+list	O--NN
+of	O--IN
+nr	B-rating.name--NN
+movies	O--NNS
+
+what	O--WP
+is	O--VBZ
+a	O--DT
+list	O--NN
+of	O--IN
+pg	B-rating.name--NN
+thirteen	I-rating.name--CD
+action	B-movie.genre--NN
+movies	O--NNS
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+a	O--DT
+pg	B-rating.name--NN
+thirteen	I-rating.name--CD
+movie	O--NN
+
+show	O--VV
+me	O--PP
+a	O--DT
+complete	O--JJ
+list	O--NN
+of	O--IN
+r	B-rating.name--NN
+rated	O--VVN
+movies	O--NNS
+that	O--WDT
+came	O--VVD
+out	O--RP
+in	O--IN
+the	B-movie.release_date--DT
+last	I-movie.release_date--JJ
+30	I-movie.release_date--CD
+days	I-movie.release_date--NNS
+
+show	O--VV
+me	O--PP
+all	O--DT
+rated	O--VVN
+r	B-rating.name--NN
+movies	O--NNS
+by	O--IN
+paramount	B-producer.name--NN
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+that	O--WDT
+are	O--VBP
+unrated	B-rating.name--JJ
+
+list	O--NN
+movies	O--NNS
+from	O--IN
+1995	B-movie.release_date--CD
+with	O--IN
+adam	B-actor.name--NN
+sandler	I-actor.name--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+movies	O--NNS
+with	O--IN
+alan	B-actor.name--JJ
+rickmman	I-actor.name--NN
+
+which	O--WDT
+movies	O--NNS
+has	O--VHZ
+angelina	B-actor.name--NN
+jolie	I-actor.name--NN
+starred	O--VVD
+this	B-movie.release_date--DT
+season	I-movie.release_date--NN
+
+what	O--WP
+movie	O--NN
+was	O--VBD
+angelina	B-actor.name--VVG
+a	O--DT
+main	B-character.name--JJ
+actress	I-character.name--NN
+
+look	O--VV
+up	O--RP
+movies	O--NNS
+starring	O--VVG
+the	O--DT
+singer	B-actor.type--NN
+mario	B-actor.name--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+find	O--VV
+movies	O--NNS
+starring	O--VVG
+the	O--DT
+singer	B-actor.type--NN
+mario	B-actor.name--NN
+
+look	O--NN
+for	O--IN
+movies	O--NNS
+with	O--IN
+max	B-actor.name--NP
+von	I-actor.name--NP
+sudow	I-actor.name--NN
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+that	O--WDT
+have	O--VHP
+patrick	B-actor.name--JJ
+swayze	I-actor.name--NNS
+and	O--CC
+jennifer	B-actor.name--NN
+grey	I-actor.name--NN
+in	O--IN
+them	O--PP
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+that	O--IN/that
+star	O--JJ
+patrick	B-actor.name--NN
+swayze	I-actor.name--NNS
+starred	O--VVN
+in	O--IN
+from	O--IN
+nineteen	B-movie.release_date--CD
+eighty	I-movie.release_date--CD
+seven	I-movie.release_date--CD
+
+what	O--WP
+is	O--VBZ
+that	O--DT
+dancing	B-movie.subject--VVG
+movie	O--NN
+with	O--IN
+patrick	B-actor.name--NN
+swayze	I-actor.name--NNS
+
+movies	O--NNS
+of	O--IN
+sharukh	B-actor.name--NN
+khan	I-actor.name--NN
+
+movie	O--NN
+that	O--IN/that
+tom	B-actor.name--NN
+hanks	I-actor.name--NNS
+and	O--CC
+kevin	B-actor.name--NN
+becon	I-actor.name--NN
+played	O--VVN
+in	O--IN
+together	O--RB
+
+movies	O--NNS
+about	O--IN
+animals	B-movie.subject--NNS
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+about	O--IN
+bollywood	B-movie.subject--NN
+
+chess	B-movie.subject--NN
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+on	O--IN
+chess	B-movie.subject--NN
+
+what	O--WP
+are	O--VBP
+some	O--DT
+movies	O--NNS
+about	O--IN
+disco	B-movie.subject--NN
+
+what	O--WP
+movies	O--NNS
+can	O--MD
+offer	O--VV
+tips	O--NNS
+on	O--IN
+gardening	B-movie.subject--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+look	O--VV
+up	O--RP
+movies	O--NNS
+about	O--IN
+hair	B-movie.subject--NN
+
+find	O--VV
+movies	O--NNS
+about	O--IN
+libraries	B-movie.subject--NNS
+
+find	O--VV
+some	O--DT
+movies	O--NNS
+about	O--IN
+musicians	B-movie.subject--NNS
+
+can	O--MD
+you	O--PP
+find	O--VV
+movies	O--NNS
+about	O--IN
+preschool	B-movie.subject--JJ
+boys	I-movie.subject--NNS
+
+look	O--NN
+for	O--IN
+movies	O--NNS
+about	O--IN
+preschool	B-movie.subject--JJ
+boys	I-movie.subject--NNS
+
+what	O--WP
+films	O--NNS
+focus	O--VVP
+on	O--IN
+rape	B-movie.subject--NN
+and	I-movie.subject--CC
+victim	I-movie.subject--NN
+'s	I-movie.subject--POS
+rights	I-movie.subject--NNS
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+know	O--VV
+names	O--NNS
+of	O--IN
+some	O--DT
+movies	O--NNS
+on	O--IN
+religious	B-movie.subject--JJ
+issues	I-movie.subject--NNS
+
+give	O--VV
+me	O--PP
+a	O--DT
+list	O--NN
+of	O--IN
+some	O--DT
+movies	O--NNS
+on	O--IN
+religious	B-movie.subject--JJ
+issues	I-movie.subject--NNS
+
+look	O--NN
+for	O--IN
+movies	O--NNS
+about	O--IN
+school	B-movie.subject--NN
+
+tell	O--VV
+me	O--PP
+the	O--DT
+names	O--NNS
+of	O--IN
+some	O--DT
+soccer	B-movie.subject--NN
+movies	O--NNS
+
+what	O--WP
+are	O--VBP
+some	O--DT
+time	B-movie.subject--NN
+travel	I-movie.subject--NN
+movies	O--NNS
+i	O--NP
+can	O--MD
+watch	O--VV
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+involving	O--VVG
+time	B-movie.subject--NN
+travel	I-movie.subject--NN
+
+vampire	B-movie.subject--NN
+movies	O--NNS
+please	O--VVP
+
+list	O--NN
+movies	O--NNS
+with	O--IN
+a	O--DT
+theme	O--NN
+of	O--IN
+war	B-movie.subject--NN
+in	O--IN
+them	O--PP
+
+show	O--VV
+all	O--DT
+movies	O--NNS
+with	O--IN
+the	O--DT
+theme	O--NN
+of	O--IN
+war	B-movie.subject--NN
+
+can	O--MD
+you	O--PP
+find	O--VV
+me	O--PP
+some	O--DT
+movies	O--NNS
+about	O--IN
+war	B-movie.subject--NN
+
+i	O--NNS
+want	O--VVP
+a	O--DT
+list	O--NN
+of	O--IN
+movies	O--NNS
+about	O--IN
+war	B-movie.subject--NN
+
+i	O--NNS
+want	O--VVP
+movies	O--NNS
+about	O--IN
+war	B-movie.subject--NN
+
+find	O--VV
+movies	O--NNS
+about	O--IN
+world	B-movie.subject--NN
+war	I-movie.subject--NN
+two	I-movie.subject--CD
+
+what	O--WP
+are	O--VBP
+some	O--DT
+zombie	B-movie.subject--NN
+apocalypse	I-movie.subject--NN
+movies	O--NNS
+
+search	O--NN
+for	O--IN
+zombie	B-movie.subject--NN
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+belle	B-movie.name--NN
+in	O--IN
+spanish	B-movie.language--NN
+
+is	O--VBZ
+dredd	B-movie.name--RB
+rated	O--VVN
+r	B-rating.name--NN
+
+take	O--VV
+me	O--PP
+to	O--TO
+the	O--DT
+french	B-movie.language--JJ
+version	O--NN
+of	O--IN
+et	B-movie.name--FW
+
+find	O--VV
+et	B-movie.name--NP
+in	O--IN
+french	B-movie.language--NN
+
+find	O--VV
+fast	B-movie.name--JJ
+and	I-movie.name--CC
+furious	I-movie.name--JJ
+in	O--IN
+japanese	B-movie.language--NN
+
+hard	B-movie.name--JJ
+day	I-movie.name--NN
+'s	I-movie.name--POS
+night	I-movie.name--NN
+richard	B-director.name--NN
+lester	I-director.name--NN
+
+information	O--NN
+about	O--IN
+movie	O--NN
+life	B-movie.name--NN
+is	I-movie.name--VBZ
+beautiful	I-movie.name--JJ
+
+movie	O--NN
+information	O--NN
+for	O--IN
+life	B-movie.name--NN
+is	I-movie.name--VBZ
+beautiful	I-movie.name--JJ
+
+will	O--MD
+you	O--PP
+please	O--VV
+show	O--VV
+me	O--PP
+info	O--NN
+on	O--IN
+the	O--DT
+movie	O--NN
+life	B-movie.name--NN
+is	I-movie.name--VBZ
+beautiful	I-movie.name--JJ
+
+can	O--MD
+you	O--PP
+please	O--VV
+show	O--VV
+me	O--PP
+info	O--NN
+on	O--IN
+the	O--DT
+movie	O--NN
+life	B-movie.name--NN
+is	I-movie.name--VBZ
+beautiful	I-movie.name--JJ
+
+show	O--VV
+me	O--PP
+details	O--NNS
+to	O--TO
+the	O--DT
+movie	O--NN
+life	B-movie.name--NN
+is	I-movie.name--VBZ
+beautiful	I-movie.name--JJ
+
+show	O--VV
+me	O--PP
+info	O--NN
+on	O--IN
+the	O--DT
+movie	O--NN
+life	B-movie.name--NN
+is	I-movie.name--VBZ
+beautiful	I-movie.name--JJ
+please	O--RB
+
+open	O--VV
+a	O--DT
+page	O--NN
+about	O--IN
+the	O--DT
+movie	O--NN
+life	B-movie.name--NN
+is	I-movie.name--VBZ
+beautiful	I-movie.name--JJ
+
+is	O--VBZ
+nine	B-movie.release_date--CD
+fourteen	I-movie.release_date--NN
+the	O--DT
+premiere	O--JJ
+date	O--NN
+for	O--IN
+resident	B-movie.name--JJ
+evil	I-movie.name--NN
+
+select	O--JJ
+rio	B-movie.name--NN
+in	O--IN
+chinese	B-movie.language--NN
+
+find	O--VV
+me	O--PP
+the	O--DT
+first	O--JJ
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+movie	O--NN
+info	O--NN
+
+i	O--NNS
+need	O--VVP
+details	O--NNS
+about	O--IN
+the	O--DT
+movie	O--NN
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+:	I-movie.name--:
+episode	I-movie.name--NN
+four	I-movie.name--CD
+-	I-movie.name--:
+a	I-movie.name--DT
+new	I-movie.name--JJ
+hope	I-movie.name--NN
+
+did	O--VVD
+ray	B-director.name--NN
+stark	I-director.name--JJ
+produce	O--NN
+steel	B-movie.name--NN
+magnolias	I-movie.name--NNS
+
+is	O--VBZ
+the	O--DT
+movie	O--NN
+toy	B-movie.name--NN
+story	I-movie.name--NN
+4	I-movie.name--CD
+being	O--VBG
+released	O--VVN
+next	B-movie.release_date--JJ
+summer	I-movie.release_date--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+look	O--VV
+up	O--RP
+information	O--NN
+about	O--IN
+american	B-country.name--JJ
+movies	O--NNS
+
+chinese	B-movie.language--JJ
+foreign	O--JJ
+film	O--NN
+with	O--IN
+kungfu	B-movie.subject--NN
+
+french	B-movie.language--NN
+movies	O--NNS
+for	O--IN
+twenty	B-movie.release_date--CD
+twelve	I-movie.release_date--NN
+
+look	O--NN
+for	O--IN
+russian	B-movie.language--JJ
+movies	O--NNS
+by	O--IN
+mosfilm	B-producer.name--NN
+
+show	O--NN
+production	O--NN
+company	O--NN
+lionsgate	B-producer.name--NNS
+
+paramount	B-producer.name--JJ
+film	I-producer.name--NN
+studios	I-producer.name--NNS
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+have	O--VH
+more	O--JJR
+information	O--NN
+about	O--IN
+the	O--DT
+producer	O--NN
+ray	B-person.name--NN
+stark	I-person.name--JJ
+
+show	O--VV
+me	O--PP
+details	O--NNS
+for	O--IN
+the	O--DT
+director	O--NN
+steven	B-director.name--JJ
+spielberg	I-director.name--NN
+
+show	O--VV
+me	O--PP
+that	O--IN/that
+actor	O--NN
+tom	B-actor.name--NN
+cruise	I-actor.name--NN
+
+i	O--NP
+would	O--MD
+like	O--VV
+information	O--NN
+about	O--IN
+the	O--DT
+actor	O--NN
+will	B-actor.name--MD
+ferrell	I-actor.name--VV
+
+who	O--WP
+produced	O--VVD
+the	O--DT
+movie	O--NN
+great	B-movie.name--JJ
+debaters	I-movie.name--NNS
+
+king	B-movie.name--NN
+'s	I-movie.name--POS
+speech	I-movie.name--NN
+production	O--NN
+company	O--NN
+
+i	O--NP
+wonder	O--NN
+who	O--WP
+produced	O--VVD
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+
+i	O--NP
+can	O--MD
+'t	O--NP
+remember	O--VV
+who	O--WP
+produced	O--VVD
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+
+who	O--WP
+produced	O--VVD
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+
+movie	O--NN
+producers	O--NNS
+
+how	O--WRB
+much	O--RB
+did	O--VVD
+end	B-movie.name--NN
+of	I-movie.name--IN
+watch	I-movie.name--NN
+gross	O--JJ
+
+how	O--WRB
+much	O--RB
+did	O--VVD
+movie	O--NN
+earn	O--VV
+
+show	O--VV
+me	O--PP
+the	O--DT
+earnings	O--NNS
+for	O--IN
+hotel	B-movie.name--NN
+transylvania	I-movie.name--NN
+
+what	O--WP
+did	O--VVD
+the	O--DT
+movie	O--NN
+the	O--DT
+house	B-movie.name--NN
+at	I-movie.name--IN
+the	I-movie.name--DT
+end	I-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+steet	I-movie.name--NN
+gross	O--JJ
+
+revenue	O--NN
+for	O--IN
+iron	B-movie.name--NN
+man	I-movie.name--NN
+2	I-movie.name--CD
+
+what	O--WP
+amount	O--NN
+of	O--IN
+revenue	O--NN
+did	O--VVD
+iron	B-movie.name--NN
+man	I-movie.name--NN
+make	O--VV
+
+what	O--WP
+was	O--VBD
+the	O--DT
+gross	O--JJ
+revenue	O--NN
+of	O--IN
+iron	B-movie.name--NN
+man	I-movie.name--NN
+
+kahani	B-movie.name--NP
+'s	O--POS
+revenue	O--NN
+
+get	O--VV
+the	O--DT
+revenue	O--NN
+of	O--IN
+kahani	B-movie.name--NNS
+
+revenue	O--NN
+looper	B-movie.name--NN
+
+how	O--WRB
+much	O--RB
+did	O--VVD
+looper	B-movie.name--NN
+gross	O--JJ
+in	O--IN
+sales	O--NNS
+
+how	O--WRB
+much	O--RB
+did	O--VVD
+looper	B-movie.name--NN
+gross	O--JJ
+
+ho	O--NP
+much	O--RB
+did	O--VVD
+looper	B-movie.name--NN
+make	O--VV
+
+how	O--WRB
+much	O--JJ
+money	O--NN
+did	O--VVD
+mr	B-movie.name--NN
+and	I-movie.name--CC
+mrs	I-movie.name--NN
+smith	I-movie.name--NN
+make	O--VV
+
+how	O--WRB
+much	O--JJ
+money	O--NN
+did	O--VVD
+the	O--DT
+movie	O--NN
+mr	B-movie.name--NN
+and	I-movie.name--CC
+mrs	I-movie.name--NN
+smith	I-movie.name--NN
+make	O--VV
+
+in	O--IN
+the	O--DT
+movie	O--NN
+mr	B-movie.name--NN
+and	I-movie.name--CC
+mrs	I-movie.name--NN
+smith	I-movie.name--NN
+how	O--WRB
+much	O--JJ
+money	O--NN
+did	O--VVD
+the	O--DT
+box	O--NN
+offfice	O--NN
+report	O--NN
+
+how	O--WRB
+much	O--JJ
+money	O--NN
+did	O--VVD
+philadelphia	B-movie.name--NN
+make	O--VV
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+know	O--VV
+what	O--WP
+the	O--DT
+revenue	O--NN
+for	O--IN
+pirates	B-movie.name--NNS
+was	O--VBD
+
+how	O--WRB
+much	O--RB
+was	O--VBD
+made	O--VVN
+from	O--IN
+platoon	B-movie.name--NN
+
+what	O--WP
+was	O--VBD
+the	O--DT
+gross	O--JJ
+revenue	O--NN
+earned	O--VVD
+by	O--IN
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+in	O--IN
+its	O--PP$
+original	O--JJ
+release	O--NN
+
+what	O--WP
+was	O--VBD
+the	O--DT
+total	O--JJ
+gross	O--JJ
+receipts	O--NNS
+at	O--IN
+the	O--DT
+box	O--NN
+office	O--NN
+for	O--IN
+the	O--DT
+movie	O--NN
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+
+what	O--WP
+were	O--VBD
+the	O--DT
+gross	O--JJ
+receipts	O--NNS
+for	O--IN
+hunger	B-movie.name--NN
+games	I-movie.name--NNS
+
+tell	O--VV
+me	O--PP
+how	O--WRB
+much	O--JJ
+money	O--NN
+tommy	B-movie.name--NN
+boy	I-movie.name--NN
+made	O--VVD
+
+how	O--WRB
+much	O--JJ
+revenue	O--NN
+did	O--VVD
+top	B-movie.name--JJ
+gun	I-movie.name--NN
+make	O--VV
+
+tell	O--VV
+me	O--PP
+the	O--DT
+revenue	O--NN
+of	O--IN
+training	B-movie.name--NN
+day	I-movie.name--NN
+
+what	O--WP
+is	O--VBZ
+life	B-movie.name--NN
+is	I-movie.name--VBZ
+beautiful	I-movie.name--JJ
+about	O--RB
+
+show	O--VV
+me	O--PP
+a	O--DT
+list	O--NN
+of	O--IN
+production	O--NN
+companies	O--NNS
+
+show	O--VV
+me	O--PP
+the	O--DT
+viewer	O--NN
+ratings	O--NNS
+in	B-movie.name--IN
+orange	I-movie.name--NN
+
+is	O--VBZ
+in	B-movie.name--RB
+july	I-movie.name--RB
+on	O--IN
+netflix	O--NN
+
+rate	O--NN
+movies	O--NNS
+
+find	O--VV
+the	O--DT
+actor	O--NN
+that	O--WDT
+sings	O--VVZ
+let	O--VV
+me	O--PP
+love	O--VV
+you	O--PP
+
+what	O--WP
+is	O--VBZ
+steven	B-person.name--JJ
+spielberg	I-person.name--NN
+up	O--RB
+to	O--TO
+
+israel	B-country.name--NP
+are	O--VBP
+all	O--PDT
+your	O--PP$
+movies	O--NNS
+in	O--IN
+your	O--PP$
+native	O--JJ
+language	O--NN
+or	O--CC
+in	O--IN
+english	B-movie.language--NN
+
+what	O--WP
+'s	O--VBZ
+playing	O--VVG
+tonight	O--RB
+
+where	O--WRB
+can	O--MD
+i	O--NNS
+buy	O--VV
+this	O--DT
+movie	O--NN
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+know	O--VV
+if	O--IN
+this	O--DT
+is	O--VBZ
+a	O--DT
+real	O--RB
+scary	B-movie.genre--JJ
+
+how	O--WRB
+to	O--TO
+rent	O--VV
+dirty	B-movie.name--JJ
+dancing	I-movie.name--NN
+
+can	O--MD
+i	O--NP
+rent	O--NN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+on	O--IN
+netflix	O--NN
+
+hotel	B-movie.name--NN
+rwanda	I-movie.name--NN
+is	O--VBZ
+based	O--VVN
+on	O--IN
+what	O--WP
+
+i	O--NNS
+need	O--VVP
+to	O--TO
+know	O--VV
+where	O--WRB
+you	O--PP
+keep	O--VVP
+resident	B-movie.name--JJ
+evil	I-movie.name--NN
+
+in	O--IN
+september	O--NN
+
+dvd	O--NNS
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+find	O--VV
+movie	O--NN
+from	O--IN
+criteria	O--NNS
+
+find	O--VV
+a	O--DT
+movie	O--NN
+
+can	O--MD
+you	O--PP
+tell	O--VV
+me	O--PP
+which	O--WDT
+movie	O--NN
+made	O--VVD
+the	O--DT
+most	O--JJS
+at	O--IN
+the	O--DT
+box	O--NN
+office	O--NN
+in	O--IN
+the	O--DT
+weekend	O--NN
+of	O--IN
+september	O--NN
+twenty	O--CD
+eighth	O--NN
+
+find	O--VV
+movies	O--NNS
+selected	O--VVN
+on	O--IN
+all	O--DT
+criteria	O--NNS
+
+options	O--NNS
+available	O--JJ
+for	O--IN
+movies	O--NNS
+today	O--NN
+
+find	O--VV
+all	O--DT
+selected	O--JJ
+criteria	O--NNS
+
+search	O--NN
+highlighted	O--VVD
+information	O--NN
+
+bring	O--VV
+up	O--RP
+movie	O--NN
+request	O--NN
+
+find	O--VV
+selected	O--JJ
+information	O--NN
+
+find	O--VV
+selected	O--JJ
+criteria	O--NNS
+
+where	O--WRB
+can	O--MD
+i	O--NP
+watch	O--NN
+movie	O--NN
+
+search	O--VV
+all	O--DT
+databases	O--NNS
+
+search	O--NN
+databases	O--NNS
+
+where	O--WRB
+can	O--MD
+i	O--NNS
+see	O--VV
+movie	O--NN
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+age	O--NN
+limit	O--NN
+for	O--IN
+the	O--DT
+pg	B-rating.name--NN
+rating	O--NN
+for	O--IN
+the	O--DT
+movie	O--NN
+hotel	B-movie.name--NN
+transylvania	B-movie.name--NN
+
+what	O--WP
+does	O--VVZ
+the	O--DT
+rating	O--NN
+r	B-rating.name--SYM
+mean	O--JJ
+for	O--IN
+the	O--DT
+movie	O--NN
+dred	O--VVD
+
+show	O--VV
+me	O--PP
+the	O--DT
+sequels	O--NNS
+or	O--CC
+prequels	O--NNS
+to	O--TO
+this	O--DT
+movie	O--NN
+
+how	O--WRB
+long	O--RB
+did	O--VVD
+it	O--PP
+take	O--VV
+james	B-producer.name--NNS
+cameron	I-producer.name--NN
+to	O--TO
+produce	O--VV
+avatar	B-movie.name--NN
+
+is	O--VBZ
+this	O--DT
+film	O--NN
+dubbed	O--VVN
+in	O--IN
+english	B-movie.language--NN
+
+apollo	B-movie.name--NN
+thirteen	I-movie.name--CD
+cast	O--NN
+was	O--VBD
+chosen	O--VVN
+how	O--WRB
+
+what	O--WP
+other	O--JJ
+formats	O--NNS
+is	O--VBZ
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+in	O--IN
+
+in	O--IN
+how	O--WRB
+many	O--JJ
+days	O--NNS
+did	O--VVD
+it	O--PP
+take	O--VVP
+to	O--TO
+make	O--VV
+twenty	B-movie.gross_revenue--CD
+one	I-movie.gross_revenue--CD
+point	I-movie.gross_revenue--NN
+two	I-movie.gross_revenue--CD
+for	O--IN
+looper	B-movie.name--NN
+
+what	O--WP
+age	O--NN
+group	O--NN
+is	O--VBZ
+for	O--IN
+rated	O--VVN
+r	B-rating.name--NN
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+the	O--DT
+behind	O--IN
+scenes	O--NNS
+of	O--IN
+the	O--DT
+movie	O--NN
+in	B-movie.name--IN
+orange	I-movie.name--NN
+
+how	O--WRB
+long	O--RB
+do	O--VVP
+you	O--PP
+predict	O--VVP
+that	O--IN/that
+wb	B-producer.name--NN
+will	O--MD
+continue	O--VV
+to	O--TO
+strive	O--VV
+in	O--IN
+today	O--NN
+'s	O--POS
+market	O--NN
+
+the	O--DT
+crap	O--NN
+
+who	O--WP
+determines	O--VVZ
+the	O--DT
+ratings	O--NNS
+on	O--IN
+movies	O--NNS
+
+house	B-movie.name--NN
+at	I-movie.name--IN
+the	I-movie.name--DT
+end	I-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+street	I-movie.name--NN
+should	O--MD
+of	O--IN
+made	O--VVD
+more	O--JJR
+money	O--NN
+
+find	O--VV
+me	O--PP
+dirty	B-movie.name--JJ
+dancing	I-movie.name--NN
+news	O--NN
+
+who	O--WP
+else	O--RB
+could	O--MD
+have	O--VH
+preformed	O--VVN
+your	O--PP$
+job	O--NN
+
+twenty	B-movie.gross_revenue--CD
+one	I-movie.gross_revenue--CD
+point	I-movie.gross_revenue--NN
+two	I-movie.gross_revenue--CD
+was	O--VBD
+paid	O--VVN
+out	O--RP
+
+find	O--VV
+some	O--DT
+notes	O--NNS
+on	O--IN
+parental	O--JJ
+guidance	O--NN
+please	O--VV
+
+who	O--WP
+came	O--VVD
+up	O--RP
+for	O--IN
+the	O--DT
+main	O--JJ
+plot	O--NN
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+standard	O--NN
+to	O--TO
+be	O--VB
+rated	O--VVN
+g	B-rating.name--NN
+
+i	O--NP
+love	O--NN
+taye	B-person.name--NN
+diggs	I-person.name--NNS
+
+show	O--VV
+me	O--PP
+the	O--DT
+movie	O--NN
+reviews	O--VVZ
+in	O--IN
+orange	O--NN
+
+show	O--VV
+me	O--PP
+celebrities	O--NNS
+
+how	O--WRB
+old	O--JJ
+do	O--VVP
+you	O--PP
+have	O--VHP
+to	O--TO
+be	O--VB
+to	O--TO
+see	O--VV
+an	O--DT
+r-rated	B-rating.name--JJ
+movie	O--NN
+
+does	O--VVZ
+ireland	B-country.name--NP
+have	O--VHP
+an	O--DT
+equivalent	O--NN
+to	O--TO
+th	O--NN
+us	B-country.name--PP
+oscar	B-award.ceremony--NN
+awards	O--NNS
+
+click	O--NN
+on	O--IN
+the	O--DT
+most	O--RBS
+popular	O--JJ
+movie	O--NN
+in	O--IN
+orange	O--NN
+
+brazil	B-movie.location--NN
+movie	O--NN
+locations	O--NNS
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+history	O--NN
+behind	O--IN
+lionsgate	B-producer.name--NNS
+
+what	O--WP
+does	O--VVZ
+an	O--DT
+r	B-rating.name--NN
+rating	O--NN
+mean	O--VVP
+on	O--IN
+a	O--DT
+movie	O--NN
+
+can	O--MD
+you	O--PP
+give	O--VV
+me	O--PP
+more	O--JJR
+information	O--NN
+about	O--IN
+the	O--DT
+text	O--NN
+highlighted	O--VVN
+in	O--IN
+orange	O--NN
+
+what	O--WP
+are	O--VBP
+the	O--DT
+recommended	O--JJ
+ages	O--NNS
+for	O--IN
+a	O--DT
+pg	B-rating.name--NN
+movie	O--NN
+
+send	O--VV
+dredd	B-movie.name--NN
+movie	O--NN
+
+jenn	B-person.name--NP
+ann	I-person.name--NP
+lover	O--NN
+
+did	O--VVD
+kristen	B-person.name--NP
+stewart	I-person.name--NP
+have	O--VHP
+an	O--DT
+affair	O--NN
+with	O--IN
+the	O--DT
+director	O--NN
+of	O--IN
+snow	B-movie.name--NN
+white	I-movie.name--NN
+and	I-movie.name--CC
+the	I-movie.name--DT
+huntsman	I-movie.name--NN
+
+show	O--VV
+me	O--PP
+movie	O--NN
+highlights	O--NNS
+in	O--IN
+orange	O--NN
+
+need	O--NN
+to	O--TO
+rate	O--NN
+movie	O--NN
+
+how	O--WRB
+old	O--JJ
+do	O--VVP
+you	O--PP
+have	O--VHP
+to	O--TO
+be	O--VB
+to	O--TO
+see	O--VV
+a	O--DT
+rated	O--VVN
+r	B-rating.name--NN
+movie	O--NN
+
+what	O--WP
+does	O--VVZ
+a	O--DT
+pg	B-rating.name--NN
+thirteen	I-rating.name--CD
+rating	O--NN
+mean	O--NN
+
+twenty	B-movie.gross_revenue--CD
+one	I-movie.gross_revenue--CD
+point	I-movie.gross_revenue--NN
+two	I-movie.gross_revenue--CD
+is	O--VBZ
+the	O--DT
+first	O--JJ
+week	O--NN
+gross	O--JJ
+
+r	B-rating.name--SYM
+rating	O--NN
+what	O--WP
+does	O--VVZ
+that	O--RB
+include	O--VV
+
+in	B-movie.name--IN
+julie	I-movie.name--NN
+
+wb	B-producer.name--NN
+-	O--:
+what	O--WP
+does	O--VVZ
+it	O--PP
+take	O--VV
+to	O--TO
+become	O--VV
+a	O--DT
+movie	O--NN
+producer	O--NN
+
+show	O--VV
+me	O--PP
+hollywood	O--NN
+influences	O--NNS
+
+how	O--WRB
+does	O--VVZ
+a	O--DT
+movie	O--NN
+receive	O--VV
+an	O--DT
+r	B-rating.name--NN
+rating	O--NN
+
+did	O--VVD
+you	O--PP
+have	O--VHP
+fun	O--NN
+on	O--IN
+the	O--DT
+set	O--NN
+
+what	O--WP
+are	O--VBP
+the	O--DT
+rating	O--NN
+symbols	O--NNS
+for	O--IN
+movies	O--NNS
+
+sb	O--NN
+news	O--NN
+on	O--IN
+life	O--NN
+
+i	O--NNS
+have	O--VHP
+a	O--DT
+thirteen	O--CD
+year	O--NN
+old	O--JJ
+
+end	B-movie.name--NN
+of	I-movie.name--IN
+watch	I-movie.name--NN
+shoulde	O--NN
+of	O--IN
+made	O--VVD
+less	O--JJR
+money	O--NN
+
+when	O--WRB
+the	O--DT
+movie	O--NN
+comes	O--VVZ
+out	O--RB
+do	O--VV
+you	O--PP
+think	O--VVP
+it	O--PP
+will	O--MD
+raise	O--VV
+in	O--IN
+the	O--DT
+box	O--NN
+office	O--NN
+
+show	O--VV
+me	O--PP
+the	O--DT
+movie	O--NN
+list	O--NN
+in	O--IN
+orange	O--NN
+
+show	O--VV
+me	O--PP
+the	O--DT
+story	O--NN
+of	O--IN
+the	O--DT
+armstrong	B-person.name--NN
+siddeley	I-person.name--NN
+
+classic	O--JJ
+cars	O--NNS
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+learn	O--VV
+about	O--IN
+flowers	O--NNS
+
+out	O--IN
+camping	O--NN
+
+happy	O--JJ
+
+interesting	O--JJ
+
+sort	O--NN
+by	O--IN
+spanish	B-movie.language--NN
+
+where	O--WRB
+is	O--VBZ
+punjabi	B-movie.language--NN
+
+what	O--WP
+is	O--VBZ
+robert	B-person.name--NN
+wise	I-person.name--NN
+'s	O--POS
+middle	O--JJ
+name	O--NN
+
+ferret	O--NN
+
+forty	O--NN
+three	O--CD
+million	O--CD
+what	O--WP
+
+twenty	O--CD
+one	O--CD
+point	O--NN
+two	O--CD
+million	O--CD
+dollars	O--NNS
+was	O--VBD
+divided	O--VVN
+between	O--IN
+who	O--WP
+
+do	O--VV
+movie	O--NN
+authors	O--NNS
+use	O--VVP
+real	O--JJ
+countries	O--NNS
+
+on	O--IN
+lies	O--NNS
+
+the	O--DT
+movie	O--NN
+a	B-movie.name--DT
+tanu	I-movie.name--NN
+is	O--VBZ
+from	O--IN
+hungary	B-country.name--NN
+;	O--:
+where	O--WRB
+is	O--VBZ
+the	O--DT
+country	O--NN
+hungary	B-country.name--NN
+
+how	O--WRB
+fun	O--NN
+is	O--VBZ
+it	O--PP
+to	O--TO
+produce	O--VV
+a	O--DT
+movie	O--NN
+
+did	O--VVD
+you	O--PP
+like	O--IN
+working	O--VVG
+with	O--IN
+who	O--WP
+you	O--PP
+did	O--VVD
+
+can	O--MD
+i	O--NNS
+see	O--VV
+a	O--DT
+map	O--NN
+of	O--IN
+canada	B-country.name--NP
+
+was	O--VBD
+your	O--PP$
+journey	O--NN
+worth	O--NN
+it	O--PP
+
+south	O--JJ
+american	O--JJ
+country	O--NN
+flags	O--NNS
+
+need	O--VV
+more	O--JJR
+info	O--NN
+that	O--WDT
+relates	O--VVZ
+to	O--TO
+china	B-country.name--NN
+
+flags	O--NNS
+of	O--IN
+planet	O--NN
+earth	O--NN
+
+best	O--JJS
+writers	O--NNS
+in	O--IN
+the	O--DT
+field	O--NN
+
+find	O--VV
+the	O--DT
+male	O--JJ
+actor	O--NN
+from	O--IN
+grand	B-movie.name--JJ
+torino	I-movie.name--NN
+
+who	O--WP
+played	O--VVD
+the	O--DT
+female	O--JJ
+lead	O--NN
+in	O--IN
+hitch	B-movie.name--NN
+
+find	O--VV
+the	O--DT
+female	O--JJ
+actress	O--NN
+from	O--IN
+shallow	B-movie.name--JJ
+hal	I-movie.name--NNS
+
+who	O--WP
+is	O--VBZ
+in	O--IN
+picture	O--NN
+three	O--CD
+
+who	O--WP
+are	O--VBP
+the	O--DT
+lead	O--JJ
+actors	O--NNS
+
+how	O--WRB
+old	O--NN
+is	O--VBZ
+jennifer	B-person.name--NN
+aniston	I-person.name--NN
+
+when	O--WRB
+was	O--VBD
+will	B-person.name--NN
+ferrell	I-person.name--NN
+born	O--VVN
+
+where	O--WRB
+was	O--VBD
+black	B-movie.name--JJ
+swan	I-movie.name--NN
+directed	O--VVD
+
+where	O--WRB
+was	O--VBD
+muriel	B-movie.name--NP
+'s	I-movie.name--POS
+wedding	I-movie.name--NN
+shot	O--NN
+
+show	O--NN
+release	O--NN
+date	O--NN
+in	O--IN
+the	B-movie.release_region--DT
+usa	I-movie.release_region--NN
+for	O--IN
+the	O--DT
+movie	O--NN
+little	B-movie.name--JJ
+women	I-movie.name--NNS
+
+show	O--NN
+movie	O--NN
+description	O--NN
+
+i	O--NP
+'d	O--MD
+like	O--VV
+to	O--TO
+see	O--VV
+popular	O--JJ
+film	O--NN
+directors	O--NNS
+from	O--IN
+the	O--DT
+nineteen	B-movie.release_date--CD
+fifty	I-movie.release_date--CD
+'s	I-movie.release_date--VBZ
+through	I-movie.release_date--IN
+today	I-movie.release_date--NN
+
+best	O--JJS
+director	O--NN
+
+best	O--JJS
+directors	O--NNS
+of	O--IN
+all	O--DT
+time	O--NN
+
+please	O--UH
+show	O--VV
+me	O--PP
+famous	O--JJ
+film	O--NN
+directors	O--NNS
+
+greatest	O--JJS
+directors	O--NNS
+
+who	O--WP
+produced	O--VVD
+some	O--DT
+of	O--IN
+the	O--DT
+most	O--RBS
+popular	O--JJ
+movies	O--NNS
+
+show	O--VV
+me	O--PP
+successful	O--JJ
+movie	O--NN
+directors	O--NNS
+
+who	O--WP
+produced	O--VVD
+hotel	B-movie.name--NN
+rwanda	I-movie.name--NNS
+cover	O--VVP
+art	O--NN
+
+who	O--WP
+'s	O--VBZ
+the	O--DT
+director	O--NN
+
+director	O--NN
+'s	O--POS
+name	O--NN
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+name	O--NN
+of	O--IN
+a	O--DT
+turkish	B-director.nationality--JJ
+director	O--NN
+that	O--WDT
+produced	O--VVD
+a	O--DT
+drama	B-movie.genre--NN
+film	O--NN
+
+watch	O--NN
+dredd	B-movie.name--NN
+movie	O--NN
+
+see	O--VV
+dredd	B-movie.name--NN
+movie	O--NN
+
+what	O--WP
+was	O--VBD
+the	O--DT
+name	O--NN
+of	O--IN
+an	O--DT
+academy	B-award.ceremony--NN
+award	O--NN
+winning	O--VVG
+russian	B-country.name--JJ
+documentary	B-movie.genre--NN
+
+what	O--WP
+movie	O--NN
+titles	O--NNS
+starring	O--VVG
+meryl	B-actor.name--NN
+streep	I-actor.name--NNS
+earned	O--VVD
+oscar	B-award.ceremony--NN
+nominations	O--NNS
+
+in	O--IN
+search	O--NN
+for	O--IN
+names	O--NNS
+of	O--IN
+crew	O--NN
+members	O--NNS
+please	O--VVP
+
+get	O--VV
+me	O--PP
+reviews	O--NNS
+and	O--CC
+info	O--NN
+about	O--IN
+the	B-movie.name--DT
+campaign	I-movie.name--NN
+movie	O--NN
+
+show	O--VV
+me	O--PP
+reviews	O--NNS
+and	O--CC
+info	O--NN
+for	O--IN
+the	B-movie.name--DT
+campaign	I-movie.name--NN
+
+what	O--WP
+movies	O--NNS
+that	O--DT
+clint	B-director.name--NN
+eastwood	I-director.name--NN
+direct	O--JJ
+that	O--IN/that
+he	O--PP
+won	O--VVD
+the	O--DT
+best	B-award.category--JJS
+director	I-award.category--NN
+oscar	B-award.ceremony--NN
+for	O--IN
+
+what	O--WP
+'s	O--VBZ
+hitchcock	B-director.name--NN
+'s	O--POS
+most	O--RBS
+famous	O--JJ
+movie	O--NN
+
+tell	O--VV
+me	O--PP
+some	O--DT
+of	O--IN
+walter	B-director.name--NP
+f	I-director.name--SYM
+parkes	I-director.name--VVZ
+best	O--JJS
+movies	O--NNS
+
+looking	O--VVG
+for	O--IN
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+actor	O--NN
+number	O--NN
+one	O--CD
+
+list	O--NN
+of	O--IN
+movies	O--NNS
+directed	O--VVN
+by	O--IN
+director	O--NN
+three	O--CD
+
+show	O--VV
+me	O--PP
+the	O--DT
+film	O--NN
+that	O--WDT
+grossed	O--VVD
+seven	B-movie.gross_revenue--CD
+point	I-movie.gross_revenue--NN
+two	I-movie.gross_revenue--CD
+million	I-movie.gross_revenue--CD
+at	O--IN
+the	O--DT
+box	O--NN
+office	O--NN
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+that	O--WDT
+made	O--VVD
+over	B-movie.gross_revenue--IN
+seven	I-movie.gross_revenue--CD
+million	I-movie.gross_revenue--CD
+dollars	I-movie.gross_revenue--NNS
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+that	O--IN/that
+didn	O--NN
+'t	O--NN
+gross	O--JJ
+much	O--RB
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+movies	O--NNS
+from	O--IN
+early	B-movie.release_date--RB
+two	I-movie.release_date--CD
+thousands	I-movie.release_date--NNS
+
+show	O--VV
+last	B-movie.release_date--JJ
+years	I-movie.release_date--NNS
+films	O--NNS
+by	O--IN
+7	B-producer.name--CD
+arts	I-producer.name--NNS
+
+show	O--VV
+all	O--DT
+movies	O--NNS
+that	O--WDT
+came	O--VVD
+out	O--RP
+nine	B-movie.release_date--CD
+fourteen	I-movie.release_date--NN
+twenty	I-movie.release_date--CD
+twelve	I-movie.release_date--NN
+
+were	O--VBD
+there	O--RB
+any	O--DT
+movies	O--NNS
+released	O--VVD
+nine	B-movie.release_date--CD
+fourteen	I-movie.release_date--NN
+twenty	I-movie.release_date--CD
+twelve	I-movie.release_date--NN
+
+show	O--VV
+me	O--PP
+movies	O--NNS
+from	O--IN
+the	O--DT
+nineteen	B-movie.release_date--CD
+seventies	I-movie.release_date--NNS
+
+can	O--MD
+you	O--PP
+list	O--VV
+all	O--DT
+movies	O--NNS
+from	O--IN
+twenty	B-movie.release_date--CD
+twelve	I-movie.release_date--NN
+with	O--IN
+a	O--DT
+rating	O--NN
+of	O--IN
+three	B-movie.star_rating--CD
+stars	O--NNS
+and	O--CC
+up	O--RB
+
+academy	B-award.ceremony--NN
+award	O--NN
+lionsgate	B-producer.name--NN
+movies	O--NNS
+
+show	O--NN
+oscar	B-award.ceremony--NN
+winning	O--VVG
+movies	O--NNS
+by	O--IN
+warner	B-producer.name--NN
+brothers	I-producer.name--NNS
+
+what	O--WP
+movie	O--NN
+performance	O--NN
+did	O--VVD
+meryl	B-actor.name--NN
+streep	I-actor.name--NNS
+win	O--VVP
+her	O--PP$
+best	B-award.category--JJS
+supporting	I-award.category--JJ
+oscar	B-award.ceremony--NN
+
+have	O--VHP
+any	O--DT
+us	B-country.name--PP
+released	O--VVN
+movies	O--NNS
+been	O--VBN
+filmed	O--VVN
+on	O--IN
+location	O--NN
+in	O--IN
+the	O--DT
+czech	B-movie.location--NN
+republic	I-movie.location--NN
+
+what	O--WP
+us	B-country.name--PP
+release	O--VVP
+movies	O--NNS
+have	O--VHP
+been	O--VBN
+filmed	O--VVN
+in	O--IN
+the	O--DT
+czech	B-movie.location--NN
+republic	I-movie.location--NN
+
+list	O--NN
+movies	O--NNS
+set	O--VVN
+in	O--IN
+ireland	B-movie.location--NN
+
+show	O--VV
+me	O--PP
+the	O--DT
+movies	O--NNS
+released	O--VVN
+in	O--IN
+england	B-movie.release_region--NN
+
+what	O--WP
+movies	O--NNS
+are	O--VBP
+coming	O--VVG
+out	O--RP
+this	B-movie.release_date--DT
+week	I-movie.release_date--NN
+in	O--IN
+great	B-movie.release_region--JJ
+britain	I-movie.release_region--NN
+
+show	O--VV
+me	O--PP
+the	O--DT
+movies	O--NNS
+released	O--VVN
+in	O--IN
+nepal	B-movie.release_region--NN
+
+what	O--WP
+are	O--VBP
+the	O--DT
+top	O--JJ
+five	O--CD
+french	B-country.name--NN
+movies	O--NNS
+of	O--IN
+all	O--DT
+time	O--NN
+
+what	O--WP
+top	O--JJ
+films	O--NNS
+have	O--VHP
+come	O--VVN
+out	O--RP
+of	O--IN
+russia	B-country.name--NN
+
+show	O--VV
+me	O--PP
+the	O--DT
+top	O--JJ
+movies	O--NNS
+from	O--IN
+spain	B-country.name--NN
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+highest	O--JJS
+rated	O--VVN
+zombie	B-movie.subject--NN
+movie	O--NN
+
+what	O--WP
+are	O--VBP
+highly	O--RB
+rated	O--VVN
+zombie	B-movie.subject--NN
+movies	O--NNS
+i	O--NP
+can	O--MD
+watch	O--VV
+
+look	O--NN
+for	O--IN
+popular	O--JJ
+movies	O--NNS
+
+search	O--NN
+for	O--IN
+foreign	B-movie.language--JJ
+language	I-movie.language--NN
+films	O--NNS
+
+what	O--WP
+is	O--VBZ
+will	B-actor.name--NN
+ferrell	I-actor.name--NN
+famous	O--JJ
+for	O--IN
+
+is	O--VBZ
+this	O--DT
+a	O--DT
+musical	B-movie.genre--NN
+
+hope	O--VVP
+that	O--IN/that
+the	O--DT
+movie	O--NN
+is	O--VBZ
+in	O--IN
+english	B-movie.language--NN
+
+is	O--VBZ
+this	O--DT
+movie	O--NN
+in	O--IN
+english	B-movie.language--NN
+
+do	O--VV
+they	O--PP
+speak	O--VV
+german	B-movie.language--JJ
+in	O--IN
+the	O--DT
+movie	O--NN
+
+is	O--VBZ
+this	O--DT
+movie	O--NN
+filmed	O--VVN
+in	O--IN
+india	B-movie.location--NN
+
+show	O--VV
+all	O--DT
+dawn	B-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+dead	I-movie.name--JJ
+movies	O--NNS
+
+all	O--DT
+of	O--IN
+kung	B-movie.name--NP
+fu	I-movie.name--NP
+panda	I-movie.name--NN
+movies	O--NNS
+
+list	O--NN
+movies	O--NNS
+that	O--WDT
+have	O--VHP
+time	O--NN
+travel	O--NN
+in	O--IN
+their	O--PP$
+title	O--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+nine	B-movie.release_date--CD
+twenty	I-movie.release_date--CD
+eight	I-movie.release_date--CD
+release	O--NN
+date	O--NN
+films	O--NNS
+from	O--IN
+twenty	I-movie.release_date--CD
+twelve	I-movie.release_date--NN
+
+find	O--VV
+information	O--NN
+about	O--IN
+french	B-movie.language--JJ
+movies	O--NNS
+
+i	O--NNS
+need	O--VVP
+to	O--TO
+know	O--VV
+more	O--JJR
+about	O--IN
+the	O--DT
+life	O--NN
+and	O--CC
+movies	O--NNS
+of	O--IN
+indian	B-actor.nationality--JJ
+actor	O--NN
+dilip	B-actor.name--NN
+kumar	I-actor.name--NN
+
+what	O--WP
+does	O--VVZ
+the	O--DT
+miramax	B-producer.name--NN
+logo	O--NN
+look	O--VVP
+like	O--IN
+
+show	O--VV
+me	O--PP
+pictures	O--NNS
+of	O--IN
+martin	B-person.name--NN
+scorsese	I-person.name--NN
+
+photos	O--NNS
+of	O--IN
+steven	B-person.name--JJ
+spielberg	I-person.name--NN
+
+i	O--NNS
+want	O--VVP
+to	O--TO
+see	O--VV
+images	O--NNS
+of	O--IN
+will	B-person.name--NN
+ferrell	I-person.name--NN
+
+show	O--VV
+me	O--PP
+pictures	O--NNS
+of	O--IN
+woody	B-person.name--JJ
+allen	I-person.name--NN
+
+what	O--WP
+are	O--VBP
+popular	O--JJ
+movie	O--NN
+producers	O--NNS
+
+can	O--MD
+you	O--PP
+give	O--VV
+me	O--PP
+the	O--DT
+producer	O--NN
+
+i	O--NP
+would	O--MD
+like	O--VV
+to	O--TO
+know	O--VV
+the	O--DT
+rating	O--NN
+of	O--IN
+the	O--DT
+movie	O--NN
+avatar	B-movie.name--NN
+
+what	O--WP
+rating	O--NN
+is	O--VBZ
+the	O--DT
+movie	O--NN
+barfi	B-movie.name--NN
+
+what	O--WP
+is	O--VBZ
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+rated	O--VVN
+
+i	O--NNS
+need	O--VVP
+to	O--TO
+know	O--VV
+the	O--DT
+rating	O--NN
+of	O--IN
+grease	B-movie.name--NN
+
+can	O--MD
+you	O--PP
+find	O--VV
+out	O--RP
+what	O--WP
+rating	O--NN
+the	O--DT
+movie	O--NN
+grease	B-movie.name--NN
+is	O--VBZ
+
+what	O--WP
+is	O--VBZ
+kids	B-movie.name--NNS
+by	O--IN
+larry	B-director.name--NN
+clark	I-director.name--NN
+rated	O--VVN
+
+what	O--WP
+rating	O--NN
+did	O--VVD
+marley	B-movie.name--NN
+and	I-movie.name--CC
+me	I-movie.name--PP
+receive	O--VVP
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+rating	O--NN
+for	O--IN
+mr	B-movie.name--NN
+and	I-movie.name--CC
+mrs	I-movie.name--NN
+smith	I-movie.name--NN
+
+what	O--WP
+rating	O--NN
+did	O--VVD
+resident	B-movie.name--JJ
+evil	I-movie.name--NN
+receive	O--VV
+
+rating	O--NN
+for	O--IN
+snow	B-movie.name--NN
+white	I-movie.name--NN
+and	I-movie.name--CC
+the	I-movie.name--DT
+huntsman	I-movie.name--NN
+
+what	O--WP
+rating	O--NN
+is	O--VBZ
+step	B-movie.name--NN
+up	I-movie.name--RB
+
+look	O--VV
+up	O--RP
+the	O--DT
+rating	O--NN
+of	O--IN
+the	O--DT
+movie	O--NN
+step	B-movie.name--NN
+up	I-movie.name--RB
+
+what	O--WP
+rating	O--NN
+did	O--VVD
+the	B-movie.name--DT
+campaign	I-movie.name--NN
+movie	O--NN
+get	O--VV
+
+show	O--VV
+me	O--PP
+the	O--DT
+rating	O--NN
+for	O--IN
+the	O--DT
+movie	O--NN
+the	B-movie.name--DT
+expendables	I-movie.name--NNS
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+rating	O--NN
+for	O--IN
+toy	B-movie.name--JJ
+story	I-movie.name--NN
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+rating	O--NN
+for	O--IN
+the	O--DT
+movie	O--NN
+toy	B-movie.name--NN
+story	I-movie.name--NN
+
+rating	O--NN
+for	O--IN
+twilight	B-movie.name--NN
+breaking	I-movie.name--VVG
+dawn	I-movie.name--NN
+
+what	O--WP
+was	O--VBD
+gross	O--JJ
+revenue	O--NN
+for	O--IN
+batman	B-movie.name--NN
+begins	I-movie.name--VVZ
+
+how	O--WRB
+much	O--RB
+has	O--VHZ
+black	B-movie.name--JJ
+swan	I-movie.name--NN
+brought	O--VVN
+in	O--IN
+
+find	O--VV
+the	O--DT
+revenue	O--NN
+for	O--IN
+downton	B-movie.name--NN
+abbey	I-movie.name--NN
+
+find	O--VV
+the	O--DT
+revenue	O--NN
+of	O--IN
+edward	B-movie.name--NN
+scissor	I-movie.name--VVP
+hands	I-movie.name--NNS
+
+what	O--WP
+is	O--VBZ
+the	O--DT
+most	O--JJS
+a	O--DT
+movie	O--NN
+made	O--VVD
+
+reviews	O--NNS
+for	O--IN
+dirty	B-movie.name--JJ
+dancing	I-movie.name--NN
+
+find	O--VV
+reviews	O--NNS
+for	O--IN
+dirty	B-movie.name--JJ
+dancing	I-movie.name--NN
+
+what	O--WP
+are	O--VBP
+reviews	O--NNS
+for	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+what	O--WP
+are	O--VBP
+the	O--DT
+ratings	O--NNS
+and	O--CC
+review	O--NN
+on	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+reviews	O--NNS
+for	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+reviews	O--NNS
+for	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+reviews	O--NNS
+for	O--IN
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+
+reviews	O--NNS
+for	O--IN
+movie	O--NN
+
+reviews	O--NNS
+for	O--IN
+in	B-movie.name--IN
+july	I-movie.name--NN
+
+what	O--WP
+are	O--VBP
+the	O--DT
+reviewers	O--NNS
+saying	O--VVG
+about	O--IN
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+episode	I-movie.name--NN
+four	I-movie.name--CD
+
+how	O--WRB
+long	O--RB
+is	O--VBZ
+life	B-movie.name--NN
+is	I-movie.name--VBZ
+beautiful	I-movie.name--JJ
+
+synopsis	O--NN
+for	O--IN
+the	O--DT
+movie	O--NN
+house	B-movie.name--NN
+at	I-movie.name--IN
+the	I-movie.name--DT
+end	I-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+street	I-movie.name--NN
+
+synopsis	O--NN
+for	O--IN
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+four	I-movie.name--CD
+
+summary	O--NN
+of	O--IN
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+four	I-movie.name--CD
+
+finding	B-movie.name--VVG
+nemo	I-movie.name--NN
+movie	O--NN
+shortcut	O--NN
+
+show	O--VV
+me	O--PP
+the	O--DT
+trailer	O--NN
+for	O--IN
+house	B-movie.name--NN
+at	I-movie.name--IN
+the	I-movie.name--DT
+end	I-movie.name--NN
+of	I-movie.name--IN
+the	I-movie.name--DT
+street	I-movie.name--NN
+
+life	B-movie.name--NN
+is	I-movie.name--VBZ
+beatiful	I-movie.name--JJ
+shortcut	O--NN
+
+trailer	O--NN
+for	O--IN
+star	B-movie.name--NN
+wars	I-movie.name--NNS
+a	I-movie.name--DT
+new	I-movie.name--JJ
+hope	I-movie.name--NN
+
+show	O--VV
+resident	B-movie.name--JJ
+evil	I-movie.name--JJ
+movies	O--NNS
+with	O--IN
+trailers	O--NNS
+
+can	O--MD
+i	O--NNS
+see	O--VV
+previews	O--NNS
+for	O--IN
+upcoming	O--JJ
+warner	B-producer.name--NN
+brothers	I-producer.name--NNS
+movies	O--NNS
+
+how	O--WRB
+many	O--JJ
+woody	B-director.name--JJ
+allen	I-director.name--NN
+movies	O--NNS
+are	O--VBP
+set	O--VVN
+in	O--IN
+new	B-movie.location--JJ
+york	I-movie.location--VVP
+city	I-movie.location--NN
+
+how	O--WRB
+many	O--JJ
+scorsese	B-producer.name--JJ
+films	O--NNS
+were	O--VBD
+filmed	O--VVN
+in	O--IN
+france	B-movie.location--NN
+
