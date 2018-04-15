@@ -27,7 +27,8 @@ Each python file perform a different operation based on train and test set manip
 * base.py - use the IOB tags present in train and create a simple prediction model for the test set.
 * cutoff.py - perform cutoff of order 1 in train IOB labels
 * O_excl.py - delete O tags from train to perform analysis
-* tag_test.py - best performance test, merge tags from IOB and POS-Tagger
+* tag_test.py - merge tags from IOB and Lemmas
+* IOB_exclusion.py - delete O, I-movie.name and B-movie.name tags. Best performance script.
 
 The result of the execution can be seen inside the *results.txt*. The file contains a list of all the methods and n-grams order tried and the correlated accuracy. **Beware: this file will be override every time a .py script is executed.**
 
