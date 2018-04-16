@@ -54,7 +54,7 @@ with open(train_IOB) as file:
 		w = line.split()
 		if len(w)>0:
 			if w[1] == 'O':
-				file_IB.write(w[0]+"\t"+w[0]+"-"+w[0]+"\n")
+				file_IB.write(w[0]+"\t"+w[1]+"-"+w[0]+"\n")
 			else:
 				file_IB.write(w[0]+"\t"+w[1]+"\n")
 		else:
